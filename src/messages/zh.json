@@ -101,8 +101,6 @@
     "googleRatingValue": "4.3 (6,840)",
     "address": "地址",
     "addressValue": "Sarandë, 阿尔巴尼亚",
-    "telephone": "联系电话",
-    "telephoneValue": "无",
     "accessibility": "无障碍设施",
     "accessibilityValue": "部分可通行",
     "plusCode": "Plus Code",
@@ -131,17 +129,17 @@
   "transport": {
     "title": "交通指南",
     "fromCenter": "从市中心",
-    "fromCenterDesc": "距离萨兰达市中心3-4公里的车程或徒步路程。",
+    "fromCenterDesc": "从萨兰达市中心乘坐出租车大约需要10-15分钟，费用约为5-10欧元（500-1000列克）。",
     "fromStation": "从轮渡港口",
-    "fromStationDesc": "从萨兰达轮渡码头乘坐出租车约10-15分钟。",
+    "fromStationDesc": "从萨兰达轮渡码头乘坐出租车约10-15分钟即可直达城堡。",
     "fromAirport": "从地拉那/科孚机场",
-    "fromAirportDesc": "乘巴士（从地拉那）或轮渡（从科孚岛）前往萨兰达，然后乘坐出租车。",
+    "fromAirportDesc": "乘巴士（从地拉那）或轮渡（从科孚岛）前往萨兰达，然后乘坐出租车前往山顶。",
     "publicTransport": "公共交通",
-    "publicTransportDesc": "没有直达山顶的公共巴士；出租车是最方便的选择。",
+    "publicTransportDesc": "没有直达山顶的公共巴士。乘坐出租车是最方便的选择。",
     "walking": "步行",
-    "walkingDesc": "通过蜿蜒的铺砌道路向上步行45-60分钟。夏季请务必带水！",
+    "walkingDesc": "通过蜿蜒的铺砌道路向上步行45-60分钟。夏季请务必携带足够的水！",
     "driving": "自驾",
-    "drivingDesc": "上山的道路已铺砌且状况良好。山顶提供停车场。"
+    "drivingDesc": "上山的道路已铺砌且状况良好。山顶提供免费停车场。"
   },
   "route": {
     "title": "推荐游览路线",
@@ -244,7 +242,7 @@
   },
   "officialManagement": {
     "title": "关于 Lëkurësi Castle",
-    "text": "Lëkurësi Castle 是阿尔巴尼亚受保护的文化古迹，兼具历史意义和现代待客之道。"
+    "text": "Lëkurësi Castle 作为阿尔巴尼亚受保护的文化古迹，由阿尔巴尼亚国家文化遗产研究所与萨兰达市政府共同管理。其内部的餐厅等设施由私人实体运营。"
   },
   "privacy": {
     "title": "隐私政策",

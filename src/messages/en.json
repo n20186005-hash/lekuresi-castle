@@ -101,8 +101,6 @@
     "googleRatingValue": "4.3 (6,840)",
     "address": "Address",
     "addressValue": "Sarandë, Albania",
-    "telephone": "Contact Phone",
-    "telephoneValue": "N/A",
     "accessibility": "Accessibility",
     "accessibilityValue": "Partially accessible",
     "plusCode": "Plus Code",
@@ -131,17 +129,17 @@
   "transport": {
     "title": "How to Get Here",
     "fromCenter": "From City Center",
-    "fromCenterDesc": "A 3-4 km drive or hike from central Saranda.",
+    "fromCenterDesc": "A taxi ride from Saranda center takes about 10-15 minutes and costs approximately 5-10 EUR (500-1000 LEK).",
     "fromStation": "From Ferry Port",
-    "fromStationDesc": "About a 10-15 minute taxi ride from the Saranda Ferry Terminal.",
+    "fromStationDesc": "About a 10-15 minute taxi ride from the Saranda Ferry Terminal directly to the castle.",
     "fromAirport": "From Tirana/Corfu Airport",
-    "fromAirportDesc": "Travel to Saranda by bus (from Tirana) or ferry (from Corfu), then take a taxi.",
+    "fromAirportDesc": "Travel to Saranda by bus (from Tirana) or ferry (from Corfu), then take a taxi to the hilltop.",
     "publicTransport": "Public Transport",
-    "publicTransportDesc": "No direct public bus to the hilltop; taxi is the most convenient option.",
+    "publicTransportDesc": "There are no direct public buses up the hill. Taxis are the most convenient option.",
     "walking": "Walking",
-    "walkingDesc": "A 45-60 minute uphill walk via a paved switchback road. Bring water in summer!",
+    "walkingDesc": "A 45-60 minute uphill hike via a paved switchback road. Bring plenty of water in the summer!",
     "driving": "Driving",
-    "drivingDesc": "The road up is paved and in good condition. Parking is available at the summit."
+    "drivingDesc": "The road up is paved and in good condition. Free parking is available right at the summit."
   },
   "route": {
     "title": "Recommended Route",
@@ -244,7 +242,7 @@
   },
   "officialManagement": {
     "title": "About Lëkurësi Castle",
-    "text": "Lëkurësi Castle is a protected cultural monument of Albania, offering both historical significance and modern hospitality."
+    "text": "Lëkurësi Castle is a protected cultural monument managed by the National Institute of Cultural Heritage of Albania and the Municipality of Sarandë. The restaurant facilities within the premises are privately operated."
   },
   "privacy": {
     "title": "Privacy Policy",

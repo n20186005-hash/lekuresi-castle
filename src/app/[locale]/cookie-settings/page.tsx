@@ -11,6 +11,7 @@ export async function generateMetadata({
   const baseUrl = 'https://lekuresicastle.com';
   const zhUrl = `${baseUrl}/zh/cookie-settings`;
   const enUrl = `${baseUrl}/en/cookie-settings`;
+  const sqUrl = `${baseUrl}/sq/cookie-settings`;
   const selfUrl = `${baseUrl}/${locale}/cookie-settings`;
 
   return {
@@ -19,6 +20,7 @@ export async function generateMetadata({
       languages: {
         'zh': zhUrl,
         'en': enUrl,
+        'sq': sqUrl,
         'x-default': enUrl,
       },
     },

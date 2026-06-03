@@ -25,7 +25,7 @@ export async function generateMetadata({
       title: messages.meta.title,
       description: messages.meta.description,
       siteName: "Lëkurësi Castle",
-      locale: locale === 'zh' ? 'zh_CN' : 'en_US',
+      locale: locale === 'zh' ? 'zh_CN' : locale === 'sq' ? 'sq_AL' : 'en_US',
       type: 'website',
     },
   };
@@ -48,7 +48,7 @@ export default async function LocaleLayout({
   const messages = await getMessages();
 
   return (
-    <html lang={locale === 'zh' ? 'zh-CN' : 'en'} suppressHydrationWarning>
+    <html lang={locale === 'zh' ? 'zh-CN' : locale === 'sq' ? 'sq-AL' : 'en'} suppressHydrationWarning>
       <head>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX" crossOrigin="anonymous" />
         <meta name="google-adsense-account" content="ca-pub-XXXXXXXXXX" />

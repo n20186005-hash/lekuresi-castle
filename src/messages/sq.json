@@ -1,0 +1,302 @@
+{
+  "meta": {
+    "title": "Kalaja e Lëkurësit – Sarandë, Shqipëri",
+    "description": "Udhëzues i plotë udhëtimi për Kalanë e Lëkurësit në Sarandë, Shqipëri. Mësoni rreth kësaj kështjelle të shekullit të 16-të, duke përfshirë historinë, pamjet e perëndimit të diellit, restorantin dhe informacionet për vizitorët."
+  },
+  "header": {
+    "home": "Kreu",
+    "gallery": "Galeria",
+    "reviews": "Vlerësime",
+    "map": "Harta",
+    "backToHome": "Kthehu në Kreu"
+  },
+  "hero": {
+    "title": "Kalaja e Lëkurësit",
+    "subtitle": "Kështjellë · Sarandë, Shqipëri",
+    "rating": "4.3",
+    "reviewCount": "6,840 vlerësime",
+    "type": "Kështjellë",
+    "openMaps": "Shiko në Google Maps",
+    "mapsLink": "https://maps.app.goo.gl/Vh8wMe2L3UsdvpAC8"
+  },
+  "intro": {
+    "title": "Zbuloni Kalanë e Lëkurësit",
+    "description": "Kalaja e Lëkurësit është një kështjellë e rrënuar e shekullit të 16-të, e vendosur në një kodër strategjike me pamje nga Saranda, Shqipëri. E ndërtuar në vitin 1537 nga Sulltan Sulejmani i Madhërishëm, kalaja ofron pamje panoramike të lë pa frymë të qytetit, Detit Jon dhe ishullit të Korfuzit. Sot, ajo qëndron si një pikë referimi popullore dhe një pikë e mrekullueshme vëzhgimi, e njohur veçanërisht për perëndimet e saj spektakolare.",
+    "visitGuide": {
+      "title": "Këshilla për Vizitën",
+      "items": [
+        "E përsosur për fotografi, veçanërisht në perëndim të diellit.",
+        "Darkoni në restorantin brenda mureve të kalasë me një tarracë të hapur.",
+        "Maja e kodrës ofron një panoramë gati 360° të gjirit të Sarandës dhe Liqenit të Butrintit.",
+        "Akses përmes një rruge të shtruar piktoreske, me makinë, taksi ose në këmbë."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Pikat Kryesore",
+      "items": [
+        "Rrënojat e kështjellës osmane të shekullit të 16-të",
+        "Pamje të lë pa frymë të Sarandës dhe Korfuzit",
+        "Pikë vëzhgimi për perëndimin e diellit",
+        "Restorant në vend dhe muzikë tradicionale në verë"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Rreth Kalasë së Lëkurësit",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Historia & Trashëgimia",
+        "content": "E ndërtuar në vitin 1537 nga Sulltani Osman Sulejmani i Madhërishëm gjatë fushatës së tij kundër Korfuzit, kalaja u projektua për të mbrojtur portin e Sarandës dhe rrugën për në Butrint. Ajo fillimisht strehonte një garnizon prej 220 ushtarësh. Më vonë kalaja u bë një strehë dhe përfundimisht u braktis pas vitit 1878, duke humbur rolin e saj ushtarak."
+      },
+      {
+        "id": "architecture",
+        "title": "Arkitektura & Struktura",
+        "content": "Kalaja ka një plan afërsisht katror me dy kulla të mëdha të rrumbullakëta të vendosura në qoshet veriperëndimore dhe juglindore. Muret e saj imponuese prej guri janë rreth 2 metra të trasha dhe arrijnë deri në 7 metra lartësi, duke treguar muraturën klasike prej gëlqerori të shekullit të 16-të."
+      },
+      {
+        "id": "geography",
+        "title": "Vendndodhja & Peizazhi",
+        "content": "E vendosur në Kodrën e Lëkurësit, në juglindje të qendrës së Sarandës, kështjella zotëron një pikë vëzhgimi të pashembullt. Shpatet rreth kalasë janë të mbushura me ullinj dhe shkurre mesdhetare, duke krijuar një mjedis natyror piktoresk."
+      },
+      {
+        "id": "protection",
+        "title": "Rëndësia Moderne",
+        "content": "Pas restaurimeve të pjesshme në shekujt e 20-të dhe 21-të, Kalaja e Lëkurësit është transformuar në pikën kryesore të vëzhgimit të Sarandës. Pjesa e brendshme tani strehon një restorant popullor, duke e bërë atë një qendër të gjallë kulturore dhe turistike, veçanërisht gjatë mbrëmjeve të verës."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Pyetjet e Bëra më Shpesh",
+    "items": [
+      {
+        "question": "Cilat janë oraret e hapjes së Kalasë së Lëkurësit?",
+        "answer": "Rrënojat e kalasë janë të hapura 24/7 dhe hyrja është falas. Restoranti brenda funksionon gjatë orëve të drekës dhe mbrëmjes, duke qëndruar zakonisht hapur deri vonë."
+      },
+      {
+        "question": "A ka një tarifë hyrjeje?",
+        "answer": "Jo, eksplorimi i rrënojave të kalasë dhe shijimi i pamjeve panoramike është plotësisht i lirë për publikun."
+      },
+      {
+        "question": "Si të shkoj në kala nga Saranda?",
+        "answer": "Është një udhëtim 10-minutësh me makinë ose taksi nga qendra e qytetit. Mund të ecni gjithashtu lart rrugës së shtruar, e cila zgjat rreth 45-60 minuta, megjithëse mund të jetë e pjerrët dhe e nxehtë në verë."
+      },
+      {
+        "question": "A ka objekte ose restorante në vend?",
+        "answer": "Po, ka një restorant të madh të vendosur pikërisht brenda mureve të kalasë që ofron kuzhinë shqiptare dhe mesdhetare, pije dhe pamje të pabesueshme nga tarraca e tij."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Informacion Themelor",
+    "officialName": "Emri Zyrtar",
+    "officialNameValue": "Kalaja e Lëkurësit",
+    "type": "Lloji i Tërheqjes",
+    "typeValue": "Kështjellë",
+    "country": "Shteti",
+    "countryValue": "Shqipëri (Albania)",
+    "city": "Qyteti",
+    "cityValue": "Sarandë",
+    "googleRating": "Vlerësimi në Google",
+    "googleRatingValue": "4.3 (6,840)",
+    "address": "Adresa",
+    "addressValue": "Sarandë, Shqipëri",
+    "accessibility": "Aksesueshmëria",
+    "accessibilityValue": "Pjesërisht e aksesueshme",
+    "plusCode": "Kodi Plus",
+    "plusCodeValue": "V28G+97 Sarandë, Shqipëri"
+  },
+  "hours": {
+    "title": "Oraret e Vizitës",
+    "park": "Aksesi në Kala",
+    "parkTime": "Hapur 24 orë çdo ditë",
+    "bestTime": "Koha më e mirë për të vizituar",
+    "bestTimeSpring": "Pranverë: Mot i këndshëm dhe pamje e qartë",
+    "bestTimeSummer": "Verë: Atmosferë e gjallë dhe muzikë live në mbrëmje",
+    "bestTimeAutumn": "Vjeshtë: Temperatura më të freskëta, e përkryer për ngjitje",
+    "bestTimeWinter": "Dimër: Panorama të qeta dhe paqësore",
+    "tip": "Vizitoni rreth një orë para perëndimit të diellit për ndriçimin dhe pamjet më spektakolare përtej Detit Jon."
+  },
+  "tickets": {
+    "title": "Informacion mbi Hyrjen",
+    "park": "Hyrja në Kala",
+    "parkPrice": "Akses i lirë publik",
+    "parking": "Parkimi",
+    "parkingPrice": "Parkim falas në dispozicion në majë",
+    "guided": "Ture të Drejtuara",
+    "guidedPrice": "Përfshirë në shumë ture ditore të Sarandës"
+  },
+  "transport": {
+    "title": "Si të Vini Këtu",
+    "fromCenter": "Nga Qendra e Qytetit",
+    "fromCenterDesc": "Një udhëtim me taksi nga qendra e Sarandës zgjat rreth 10-15 minuta dhe kushton afërsisht 5-10 EUR (500-1000 LEK).",
+    "fromStation": "Nga Porti i Trageteve",
+    "fromStationDesc": "Rreth 10-15 minuta udhëtim me taksi nga Terminali i Trageteve të Sarandës direkt në kala.",
+    "fromAirport": "Nga Aeroporti i Tiranës/Korfuzit",
+    "fromAirportDesc": "Udhëtoni në Sarandë me autobus (nga Tirana) ose traget (nga Korfuzi), pastaj merrni një taksi për në majë të kodrës.",
+    "publicTransport": "Transporti Publik",
+    "publicTransportDesc": "Nuk ka autobusë publikë direkt për në kodër. Taksitë janë alternativa më e përshtatshme.",
+    "walking": "Në Këmbë",
+    "walkingDesc": "Një ngjitje 45-60 minuta përpjetë përmes një rruge të shtruar. Sillni shumë ujë gjatë verës!",
+    "driving": "Me Makinë",
+    "drivingDesc": "Rruga për lart është e shtruar dhe në gjendje të mirë. Parkim falas ofrohet pikërisht në majë."
+  },
+  "route": {
+    "title": "Rruga e Rekomanduar",
+    "overview": "Përjetoni më të mirën e Kalasë së Lëkurësit dhe rrethinave të saj të lë pa frymë.",
+    "steps": [
+      "Nisuni nga qendra e qytetit ose shëtitorja e Sarandës",
+      "Merrni një taksi ose udhëtoni me makinë lart rrugës piktoreske për në Kodrën e Lëkurësit",
+      "Eksploroni muret e rrënuara dhe kullat e rrumbullakëta të kështjellës",
+      "Bëni foto të pamjeve panoramike të gjirit të Sarandës dhe Korfuzit",
+      "Relaksohuni me një pije ose darkë në restorantin e kalasë gjatë perëndimit të diellit"
+    ]
+  },
+  "gallery": {
+    "title": "Galeria e Fotove",
+    "subtitle": "Bukuria e Kalasë së Lëkurësit",
+    "captions": [
+      "Rrënojat e kalasë dhe kullat",
+      "Pamje panoramike e Sarandës",
+      "Perëndimi i diellit mbi Detin Jon",
+      "Tarraca e restorantit brenda mureve",
+      "Pamje e ishullit të Korfuzit",
+      "Muraturë guri e shekullit të 16-të",
+      "Rruga piktoreske për në kala",
+      "Dritat e mbrëmjes në Sarandë",
+      "Ullishtat në shpatin e kodrës",
+      "Oborri i kalasë",
+      "Arkitektura historike",
+      "Pamje e Liqenit të Butrintit",
+      "Atmosfera e mbrëmjes së verës"
+    ],
+    "viewAll": "Shiko në Google Maps",
+    "showAll": "Shiko të Gjitha Fotot",
+    "showLess": "Trego Më Pak"
+  },
+  "reviews": {
+    "title": "Vlerësimet e Vizitorëve",
+    "declaration": "Vlerësimet mund të shikohen përmes Google Maps.",
+    "moreReviews": "Shiko më shumë vlerësime në Google Maps",
+    "items": [
+      {
+        "name": "James W.",
+        "rating": 5,
+        "date": "2026-04-10",
+        "text": "Pamje absolutisht mahnitëse! Shikimi i perëndimit të diellit mbi Sarandë dhe Korfuz nga muret e kalasë është një përvojë e paharrueshme."
+      },
+      {
+        "name": "Sophia M.",
+        "rating": 5,
+        "date": "2026-03-22",
+        "text": "Vend i mrekullueshëm historik me një restorant të jashtëzakonshëm brenda. Atmosfera me muzikë live shqiptare në verë ishte fantastike."
+      },
+      {
+        "name": "Andreas K.",
+        "rating": 4,
+        "date": "2026-02-15",
+        "text": "Ecje lart është mjaft e pjerrët dhe e nxehtë, por pamjet panoramike në majë ia vlen plotësisht. Një vizitë e domosdoshme në Sarandë!"
+      },
+      {
+        "name": "Emma L.",
+        "rating": 5,
+        "date": "2026-01-30",
+        "text": "Kala e bukur e rrënuar. Është falas për të hyrë dhe eksploruar. Ne kishim një darkë të këndshme në tarracë me pamje nga qyteti."
+      },
+      {
+        "name": "Michael R.",
+        "rating": 5,
+        "date": "2025-12-18",
+        "text": "Një vend i mrekullueshëm për të bërë fotografi. Muret e shekullit të 16-të janë mbresëlënëse, dhe pamja e gjirit të lë pa frymë."
+      },
+      {
+        "name": "Linda T.",
+        "rating": 5,
+        "date": "2025-11-25",
+        "text": "Një nga pikat më të mira të vëzhgimit në Shqipëri. Sigurohuni që të vini këtu gjatë orës së artë për ndriçimin më të mirë."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Vendndodhja në Hartë",
+    "subtitle": "V28G+97 Sarandë, Shqipëri",
+    "openMaps": "Shiko në Google Maps"
+  },
+  "footer": {
+    "brandName": "Kalaja e Lëkurësit",
+    "brandSubtitle": "Kështjellë · Sarandë, Shqipëri",
+    "rights": "© 2026 Projekti i Pavarur i Kërkimit të Turizmit · Të Gjitha të Drejtat e Rezervuara.",
+    "privacy": "Politika e Privatësisë",
+    "terms": "Kushtet e Shërbimit",
+    "cookies": "Cilësimet e Cookies",
+    "officialResourcesTitle": "Burimet & Informacioni Zyrtar",
+    "officialLinks": {
+      "mfa": "Ministria për Evropën dhe Punët e Jashtme - Regjimi i Vizave",
+      "akt": "Agjencia Kombëtare e Turizmit e Shqipërisë",
+      "qarku": "Këshilli i Qarkut Vlorë",
+      "saranda": "Bashkia e Sarandës",
+      "iktk": "Instituti Kombëtar i Trashëgimisë Kulturore",
+      "arkiva": "Drejtoria e Përgjithshme e Arkivave"
+    },
+    "disclaimer": "Kjo faqe interneti është një projekt i pavarur i informacionit turistik i palës së tretë. Ne nuk jemi të lidhur me qeverinë lokale ose ndonjë agjenci tjetër zyrtare."
+  },
+  "officialManagement": {
+    "title": "Rreth Kalasë së Lëkurësit",
+    "text": "Kalaja e Lëkurësit është një monument i mbrojtur kulturor i menaxhuar nga Instituti Kombëtar i Trashëgimisë Kulturore të Shqipërisë dhe Bashkia e Sarandës. Objektet e restorantit brenda mjediseve menaxhohen nga privati."
+  },
+  "privacy": {
+    "title": "Politika e Privatësisë",
+    "lastUpdated": "Përditësuar së fundmi: Maj 2026",
+    "sections": [
+      {
+        "heading": "Mbledhja e Informacionit",
+        "content": "Kur vizitoni faqen tonë të internetit, ne mund të mbledhim automatikisht informacione bazë në lidhje me pajisjen tuaj, shfletuesin dhe sjelljen e shfletimit për të ofruar një përvojë më të mirë për përdoruesit. Ky informacion nuk përmban identitetin tuaj personal."
+      },
+      {
+        "heading": "Përdorimi i Cookies",
+        "content": "Ne përdorim cookies për të analizuar trafikun e faqes në internet dhe për të optimizuar përmbajtjen e faqes. Mund të menaxhoni preferencat tuaja në çdo kohë përmes opsionit Cilësimet e Cookies në fund të faqes sonë."
+      },
+      {
+        "heading": "Siguria dhe Mbrojtja e të Dhënave",
+        "content": "Ne jemi të përkushtuar të mbrojmë sigurinë e të dhënave tuaja të privatësisë dhe nuk do të shesim, japim me qira ose tregtojmë të dhënat tuaja të shfletimit te organizatat tregtare të palëve të treta."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Kushtet e Shërbimit",
+    "lastUpdated": "Përditësuar së fundmi: Maj 2026",
+    "sections": [
+      {
+        "heading": "Përmbajtja dhe Përdorimi i Faqes në Internet",
+        "content": "Kjo faqe interneti ofron informacione turistike, të transportit dhe historike rreth Kalasë së Lëkurësit. E gjithë përmbajtja është vetëm për referencë. Oraret aktuale të hapjes dhe informacionet e tërheqjes mund të ndryshojnë në çdo kohë; ju lutemi referojuni njoftimeve zyrtare."
+      },
+      {
+        "heading": "Pronësia Intelektuale",
+        "content": "Teksti, imazhet dhe dizajnet në këtë faqe interneti mbrohen nga e drejta e autorit. Pa leje të qartë me shkrim, askush nuk mund të përdorë përmbajtjen e faqes në internet për qëllime tregtare."
+      },
+      {
+        "heading": "Mohim Përgjegjësie",
+        "content": "Ne përpiqemi të sigurojmë saktësinë dhe afatin kohor të informacionit, por nuk marrim përsipër përgjegjësi ligjore për vonesat e udhëtimit ose humbjet e shkaktuara drejtpërdrejt ose tërthorazi nga përdorimi i informacionit të dhënë në këtë faqe interneti."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cilësimet e Cookies",
+    "description": "Menaxhoni preferencat tuaja të cookies.",
+    "essential": {
+      "title": "Cookies Thelbësore",
+      "description": "E nevojshme për funksionalitetin bazë të faqes në internet dhe nuk mund të çaktivizohet.",
+      "badge": "Gjithmonë Aktiv"
+    },
+    "analytics": {
+      "title": "Analitika",
+      "description": "Na ndihmoni të kuptojmë sjelljen e vizitorëve dhe të përmirësojmë faqen e internetit."
+    },
+    "marketing": {
+      "title": "Marketingu",
+      "description": "Përdoret për ndjekjen ndër-faqe dhe ofrimin e reklamave të personalizuara."
+    },
+    "save": "Ruaj Preferencat",
+    "saved": "Preferencat u Ruajtën!"
+  }
+}
