@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Lëkurësi Castle – Sarandë, Albania",
-    "description": "Complete travel guide to Trg Kralja Tomislava in Zagreb. Learn about this city park, including location, views, access, and visitor information."
+    "description": "Complete travel guide to Lëkurësi Castle (Kalaja e Lëkurësit) in Sarandë, Albania. Learn about this 16th-century fortress, including its history, sunset views, restaurant, and visitor information."
   },
   "header": {
     "home": "Home",
@@ -20,49 +20,49 @@
     "mapsLink": "https://maps.app.goo.gl/Vh8wMe2L3UsdvpAC8"
   },
   "intro": {
-    "title": "Discover Trg Kralja Tomislava",
-    "description": "Trg Kralja Tomislava (King Tomislav Square) is one of the most beautiful and prominent urban parks in Zagreb, Croatia. Located right across from the main railway station, it welcomes visitors with the magnificent Art Pavilion and a majestic monument to King Tomislav. It is a popular gathering place and a masterpiece of landscape architecture.",
+    "title": "Discover Lëkurësi Castle",
+    "description": "Lëkurësi Castle (Kalaja e Lëkurësit) is a 16th-century ruined fortress perched on a strategic hilltop overlooking Sarandë, Albania. Built in 1537 by Sultan Suleiman the Magnificent, the castle offers breathtaking panoramic views of the city, the Ionian Sea, and the island of Corfu. Today, it stands as a popular landmark and a stunning viewpoint, especially renowned for its spectacular sunsets.",
     "visitGuide": {
       "title": "Visit Tips",
       "items": [
-        "A great place to relax after arriving at the Main Railway Station.",
-        "Perfect for photography, especially with the Art Pavilion in the background.",
-        "In winter, the square often transforms into a magical ice skating rink.",
-        "Easily accessible and surrounded by beautiful historic architecture."
+        "Perfect for photography, particularly at sunset.",
+        "Dine at the restaurant inside the castle walls with an open terrace.",
+        "The hilltop offers a near-360° panorama of Saranda bay and Butrint Lake.",
+        "Access via a scenic paved road, either by car, taxi, or a hike."
       ]
     },
     "alsoKnownAs": {
       "title": "Highlights",
       "items": [
-        "King Tomislav Monument",
-        "Art Pavilion backdrop",
-        "Beautiful floral displays",
-        "Part of Zagreb's Green Horseshoe"
+        "16th-century Ottoman fortress ruins",
+        "Breathtaking views of Saranda and Corfu",
+        "Sunset viewpoint",
+        "On-site restaurant and traditional music in summer"
       ]
     }
   },
   "knowledge": {
-    "title": "About Trg Kralja Tomislava",
+    "title": "About Lëkurësi Castle",
     "sections": [
       {
         "id": "history",
         "title": "History & Heritage",
-        "content": "Named after the first Croatian King, Tomislav, the square was designed in the late 19th and early 20th centuries. The iconic monument of King Tomislav on horseback, created by sculptor Robert Frangeš-Mihanović, was erected in 1947, commemorating the 1000th anniversary of the Croatian Kingdom."
+        "content": "Built in 1537 by Ottoman Sultan Suleiman the Magnificent during his campaign against Corfu, the castle was designed to protect the harbor of Saranda and the road to Butrint. It originally housed a garrison of 220 soldiers. The castle later became a refuge and was eventually abandoned after 1878, losing its military role."
+      },
+      {
+        "id": "architecture",
+        "title": "Architecture & Structure",
+        "content": "The castle has a roughly square plan with two large round towers located at the northwestern and southeastern corners. Its imposing stone walls are approximately 2 meters thick and reach up to 7 meters high, showcasing classic 16th-century limestone masonry."
       },
       {
         "id": "geography",
         "title": "Location & Landscape",
-        "content": "Situated in the Lower Town of Zagreb, it is the first part of the 'Lenuci Horseshoe' (a U-shaped system of city squares and parks) that visitors see when exiting the main train station. The square features meticulously maintained lawns, colorful flower beds, and shaded pathways."
-      },
-      {
-        "id": "architecture",
-        "title": "Architecture & Surroundings",
-        "content": "The northern end of the square is dominated by the Art Pavilion (Umjetnički paviljon), an elegant yellow exhibition building dating back to 1898. The surrounding streets feature beautiful classicist and secessionist buildings that define Zagreb's Lower Town."
+        "content": "Situated on Lekursi Hill, southeast of Saranda's center, the fortress commands an unparalleled vantage point. The slopes around the castle are dotted with olive trees and Mediterranean maquis scrub, creating a picturesque natural setting."
       },
       {
         "id": "protection",
-        "title": "Urban Significance",
-        "content": "As a protected urban and cultural space, Trg Kralja Tomislava plays a central role in Zagreb's social and cultural life. It frequently hosts open-air concerts, cultural events, and the popular 'Advent in Zagreb' winter festival."
+        "title": "Modern Significance",
+        "content": "Following partial restorations in the 20th and 21st centuries, Lëkurësi Castle has transformed into Saranda's principal viewpoint. The interior now houses a popular restaurant, making it a vibrant cultural and tourist hub, especially during summer evenings."
       }
     ]
   },
@@ -70,20 +70,20 @@
     "title": "Frequently Asked Questions",
     "items": [
       {
-        "question": "What are the opening hours of Trg Kralja Tomislava?",
-        "answer": "As a public city park, Trg Kralja Tomislava is open 24/7. However, the nearby Art Pavilion and other attractions have their own specific visiting hours."
+        "question": "What are the opening hours of Lëkurësi Castle?",
+        "answer": "The castle ruins are open 24/7 and entry is free. The restaurant inside operates during lunch and evening hours, typically staying open late."
       },
       {
         "question": "Is there an entrance fee?",
-        "answer": "No, the park is completely free and open to the public."
+        "answer": "No, exploring the castle ruins and enjoying the panoramic views is completely free to the public."
       },
       {
-        "question": "Are there guided tours available?",
-        "answer": "While the park itself doesn't offer official tours, many Zagreb city walking tours include Trg Kralja Tomislava in their itineraries."
+        "question": "How do I get to the castle from Saranda?",
+        "answer": "It is a 10-minute drive by car or taxi from the city center. You can also walk up the paved road, which takes about 45-60 minutes, though it can be steep and hot in summer."
       },
       {
-        "question": "Is the site accessible for wheelchair users?",
-        "answer": "Yes, the park features flat, paved pathways that are fully accessible for wheelchair users and strollers."
+        "question": "Are there facilities or restaurants on-site?",
+        "answer": "Yes, there is a large restaurant located right inside the castle walls offering Albanian and Mediterranean cuisine, drinks, and incredible views from its terrace."
       }
     ]
   },
@@ -104,73 +104,73 @@
     "telephone": "Contact Phone",
     "telephoneValue": "N/A",
     "accessibility": "Accessibility",
-    "accessibilityValue": "Accessible",
+    "accessibilityValue": "Partially accessible",
     "plusCode": "Plus Code",
     "plusCodeValue": "V28G+97 Sarandë, Albania"
   },
   "hours": {
     "title": "Visiting Hours",
-    "park": "Park Access",
+    "park": "Castle Access",
     "parkTime": "Open 24 hours daily",
     "bestTime": "Best Time to Visit",
-    "bestTimeSpring": "Spring: Vibrant floral displays",
-    "bestTimeSummer": "Summer: Relaxing on the lawns",
-    "bestTimeAutumn": "Autumn: Beautiful foliage colors",
-    "bestTimeWinter": "Winter: Ice skating park during Advent",
-    "tip": "Enjoy the park at sunset for the best lighting against the Art Pavilion."
+    "bestTimeSpring": "Spring: Pleasant weather and clear views",
+    "bestTimeSummer": "Summer: Vibrant atmosphere and live music in the evening",
+    "bestTimeAutumn": "Autumn: Cooler temperatures, perfect for hiking up",
+    "bestTimeWinter": "Winter: Quiet and peaceful panoramas",
+    "tip": "Visit about an hour before sunset for the most spectacular lighting and views across the Ionian Sea."
   },
   "tickets": {
     "title": "Admission Information",
-    "park": "Park Admission",
+    "park": "Castle Admission",
     "parkPrice": "Free public access",
     "parking": "Parking",
-    "parkingPrice": "Public paid parking nearby",
+    "parkingPrice": "Free parking available at the top",
     "guided": "Guided Tours",
-    "guidedPrice": "Included in many city walking tours"
+    "guidedPrice": "Included in many Saranda day tours"
   },
   "transport": {
     "title": "How to Get Here",
-    "fromCenter": "From Main Square (Ban Jelačić)",
-    "fromCenterDesc": "A short 10-15 minute walk south through the parks.",
-    "fromStation": "From Main Train Station",
-    "fromStationDesc": "Located immediately opposite the main entrance.",
-    "fromAirport": "From Zagreb Airport",
-    "fromAirportDesc": "Take the airport shuttle bus to the main bus station, then a short tram ride.",
+    "fromCenter": "From City Center",
+    "fromCenterDesc": "A 3-4 km drive or hike from central Saranda.",
+    "fromStation": "From Ferry Port",
+    "fromStationDesc": "About a 10-15 minute taxi ride from the Saranda Ferry Terminal.",
+    "fromAirport": "From Tirana/Corfu Airport",
+    "fromAirportDesc": "Travel to Saranda by bus (from Tirana) or ferry (from Corfu), then take a taxi.",
     "publicTransport": "Public Transport",
-    "publicTransportDesc": "Tram lines 2, 4, 6, 9, and 13 stop directly at 'Glavni kolodvor' (Main Station).",
+    "publicTransportDesc": "No direct public bus to the hilltop; taxi is the most convenient option.",
     "walking": "Walking",
-    "walkingDesc": "Easily walkable from all central Zagreb locations.",
+    "walkingDesc": "A 45-60 minute uphill walk via a paved switchback road. Bring water in summer!",
     "driving": "Driving",
-    "drivingDesc": "Follow signs to Glavni kolodvor; street parking is limited."
+    "drivingDesc": "The road up is paved and in good condition. Parking is available at the summit."
   },
   "route": {
     "title": "Recommended Route",
-    "overview": "Explore the beautiful squares and parks forming the Green Horseshoe.",
+    "overview": "Experience the best of Lëkurësi Castle and its breathtaking surroundings.",
     "steps": [
-      "Arrive at Glavni kolodvor (Main Railway Station)",
-      "Admire the King Tomislav Monument",
-      "Stroll through the central lawns and flower beds",
-      "Take photos in front of the Art Pavilion",
-      "Continue north to Zrinjevac Park"
+      "Start from Saranda city center or promenade",
+      "Take a taxi or drive up the scenic winding road to Lekursi Hill",
+      "Explore the ruined walls and round towers of the fortress",
+      "Take photos of the panoramic views of Saranda bay and Corfu",
+      "Relax with a drink or dinner at the castle restaurant during sunset"
     ]
   },
   "gallery": {
     "title": "Photo Gallery",
-    "subtitle": "The Beauty of Trg Kralja Tomislava",
+    "subtitle": "The Beauty of Lëkurësi Castle",
     "captions": [
-      "Park view",
-      "Monument and Pavilion",
-      "Floral displays",
-      "King Tomislav Monument",
-      "Winter Ice Park",
-      "Summer lawns",
-      "Art Pavilion close-up",
-      "Square overview",
+      "Castle ruins and towers",
+      "Panoramic view of Saranda",
+      "Sunset over the Ionian Sea",
+      "Restaurant terrace inside the walls",
+      "View of Corfu island",
+      "16th-century stone masonry",
+      "Scenic road to the castle",
+      "Evening lights of Saranda",
+      "Olive groves on the hillside",
+      "Castle courtyard",
       "Historic architecture",
-      "Walking paths",
-      "Evening view",
-      "Fountain details",
-      "Park benches"
+      "View of Butrint Lake",
+      "Summer evening atmosphere"
     ],
     "viewAll": "View on Google Maps",
     "showAll": "View All Photos",
@@ -185,37 +185,37 @@
         "name": "James W.",
         "rating": 5,
         "date": "2026-04-10",
-        "text": "Absolutely stunning park! The view of the Art Pavilion from the monument is breathtaking. A must-visit in Zagreb."
+        "text": "Absolutely stunning views! Watching the sunset over Saranda and Corfu from the castle walls is an unforgettable experience."
       },
       {
         "name": "Sophia M.",
         "rating": 5,
         "date": "2026-03-22",
-        "text": "Incredible city park with beautiful flowers. It's so relaxing to just sit here on a sunny afternoon."
+        "text": "Great historical site with an amazing restaurant inside. The atmosphere with live Albanian music in the summer was fantastic."
       },
       {
         "name": "Andreas K.",
-        "rating": 5,
+        "rating": 4,
         "date": "2026-02-15",
-        "text": "The ice skating park during winter is magical. Such a great atmosphere!"
+        "text": "The walk up is quite steep and hot, but the panoramic views at the top are completely worth it. A must-visit in Saranda!"
       },
       {
         "name": "Emma L.",
-        "rating": 4,
+        "rating": 5,
         "date": "2026-01-30",
-        "text": "Beautiful park right by the train station. Great first impression of the city."
+        "text": "Beautiful ruined castle. It's free to enter and explore. We had a lovely dinner at the terrace overlooking the city."
       },
       {
         "name": "Michael R.",
         "rating": 5,
         "date": "2025-12-18",
-        "text": "A wonderful piece of urban architecture. The whole Green Horseshoe area is fantastic."
+        "text": "A wonderful place to take photos. The 16th-century walls are impressive, and the view of the bay is breathtaking."
       },
       {
         "name": "Linda T.",
         "rating": 5,
         "date": "2025-11-25",
-        "text": "One of the best public spaces in Zagreb. Very well maintained and photogenic."
+        "text": "One of the best viewpoints in Albania. Make sure to come here during golden hour for the best lighting."
       }
     ]
   },
@@ -243,8 +243,8 @@
     "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies."
   },
   "officialManagement": {
-    "title": "About Trg Kralja Tomislava",
-    "text": "Trg Kralja Tomislava is managed by the City of Zagreb and is protected as an essential part of Zagreb's cultural and urban heritage."
+    "title": "About Lëkurësi Castle",
+    "text": "Lëkurësi Castle is a protected cultural monument of Albania, offering both historical significance and modern hospitality."
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -270,7 +270,7 @@
     "sections": [
       {
         "heading": "Website Content and Use",
-        "content": "This website provides travel, transport, and historical information about Trg Kralja Tomislava. All content is for reference only. Actual opening hours and attraction information may change at any time; please refer to official announcements."
+        "content": "This website provides travel, transport, and historical information about Lëkurësi Castle. All content is for reference only. Actual opening hours and attraction information may change at any time; please refer to official announcements."
       },
       {
         "heading": "Intellectual Property",

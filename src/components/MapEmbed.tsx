@@ -4,7 +4,7 @@ import { useMessages } from 'next-intl';
 export default function MapEmbed() {
   const t = useTranslations('mapSection');
   const messages = useMessages() as any;
-  const mapsLink = messages?.hero?.mapsLink || 'https://maps.app.goo.gl/6kLmtVRx9kFHrjND7';
+  const mapsLink = messages?.hero?.mapsLink || 'https://maps.app.goo.gl/Vh8wMe2L3UsdvpAC8';
 
   return (
     <section id="map" className="section-padding" style={{ background: 'var(--bg-secondary)' }}>

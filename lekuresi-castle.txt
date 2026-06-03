@@ -2,12 +2,41 @@ lekuresi-castle
 
 
 
+
+
+
+
+1、删除
+联系电话
+
+无
+2、
+交通指南
+检查交通指南是否有错误
+3、
+页头Trg Kralja Tomislava 显示错误
+
+4、相册相片名称有误
+5、
+
+
+
 给这个单景点买域名.com推荐
+
+
+表单项目	中文填写	英文填写
+国家 / 地区 *	阿尔巴尼亚	Albania
+地址 *	莱库雷西城堡（Kalaja e Lëkurësit）	Kalaja e Lëkurësit, Lëkurësi Castle
+地址 2	（留空）	（留空）
+城市 *	萨兰达	Sarandë
+省 / 自治区 / 直辖市 *	吉诺卡斯特州	Qarku i Gjirokastrës(Gjirokastër Region)
+邮政编码 *	9701	9701
+
 
 
 
 我们网站是
-
+lekuresicastle.com
 检查一遍看下是否有错误
 
 丰富下页面内容现在的内容还是太薄的了

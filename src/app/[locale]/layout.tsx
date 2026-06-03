@@ -15,13 +15,7 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await import(`@/messages/${locale}.json`)).default;
-  const baseUrl = 'https://tomislavsquare.com';
-
-  const zhUrl = `${baseUrl}/zh`;
-  const enUrl = `${baseUrl}/en`;
-  const hrUrl = `${baseUrl}/hr`;
-  const deUrl = `${baseUrl}/de`;
-  const selfUrl = `${baseUrl}/${locale}`;
+  const baseUrl = 'https://lekuresicastle.com';
 
   return {
     metadataBase: new URL(baseUrl),
@@ -30,8 +24,8 @@ export async function generateMetadata({
     openGraph: {
       title: messages.meta.title,
       description: messages.meta.description,
-      siteName: "Trg Kralja Tomislava",
-      locale: locale === 'zh' ? 'zh_CN' : locale === 'hr' ? 'hr_HR' : locale === 'de' ? 'de_DE' : 'en_US',
+      siteName: "Lëkurësi Castle",
+      locale: locale === 'zh' ? 'zh_CN' : 'en_US',
       type: 'website',
     },
   };
@@ -54,7 +48,7 @@ export default async function LocaleLayout({
   const messages = await getMessages();
 
   return (
-    <html lang={locale === 'zh' ? 'zh-CN' : locale === 'hr' ? 'hr-HR' : locale === 'de' ? 'de-DE' : 'en'} suppressHydrationWarning>
+    <html lang={locale === 'zh' ? 'zh-CN' : 'en'} suppressHydrationWarning>
       <head>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX" crossOrigin="anonymous" />
         <meta name="google-adsense-account" content="ca-pub-XXXXXXXXXX" />
