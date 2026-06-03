@@ -1,0 +1,304 @@
+{
+  "meta": {
+    "title": "Lëkurësi Castle – 萨兰达, 阿尔巴尼亚",
+    "description": "托米斯拉夫国王广场完整旅游指南。了解这个城市公园，包括位置、景观、交通和游览信息。"
+  },
+  "header": {
+    "home": "首页",
+    "gallery": "图库",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "hero": {
+    "title": "Lëkurësi Castle",
+    "subtitle": "城堡 · 萨兰达，阿尔巴尼亚",
+    "rating": "4.3",
+    "reviewCount": "6,840 条评价",
+    "type": "城堡",
+    "openMaps": "在Google地图上查看位置",
+    "mapsLink": "https://maps.app.goo.gl/Vh8wMe2L3UsdvpAC8"
+  },
+  "intro": {
+    "title": "探索托米斯拉夫国王广场",
+    "description": "托米斯拉夫国王广场 (Trg Kralja Tomislava) 是克罗地亚萨格勒布最美丽、最著名的城市公园之一。它位于中央火车站正对面，以宏伟的艺术亭和庄严的托米斯拉夫国王纪念碑迎接游客的到来。这里不仅是热门的聚会场所，更是景观建筑的杰作。",
+    "visitGuide": {
+      "title": "游览建议",
+      "items": [
+        "抵达中央火车站后放松身心的绝佳去处。",
+        "非常适合摄影，尤其以艺术亭为背景。",
+        "冬季时，广场通常会变成梦幻般的溜冰场。",
+        "交通便利，周围环绕着美丽的历史建筑。"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "亮点",
+      "items": [
+        "托米斯拉夫国王纪念碑",
+        "宏伟的艺术亭背景",
+        "美丽的繁花景观",
+        "萨格勒布“绿马蹄”的一部分"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "关于托米斯拉夫国王广场",
+    "sections": [
+      {
+        "id": "history",
+        "title": "历史与遗产",
+        "content": "该广场以克罗地亚第一位国王托米斯拉夫的名字命名，设计于19世纪末和20世纪初。标志性的托米斯拉夫国王骑马纪念碑由雕塑家 Robert Frangeš-Mihanović 创作，于1947年竖立，以纪念克罗地亚王国建立1000周年。"
+      },
+      {
+        "id": "architecture",
+        "title": "建筑与周边",
+        "content": "广场的北端是宏伟的艺术亭 (Umjetnički paviljon)，这是一座建于1898年的优雅黄色展览建筑。周围的街道上林立着美丽的古典主义和分离派建筑，构成了萨格勒布下城区的独特风貌。"
+      },
+      {
+        "id": "excavation",
+        "title": "城市意义",
+        "content": "作为一个受保护的城市和文化空间，托米斯拉夫国王广场在萨格勒布的社会和文化生活中发挥着核心作用。这里经常举办露天音乐会、文化活动以及著名的“萨格勒布降临节”冬季盛会。"
+      },
+      {
+        "id": "geography",
+        "title": "位置与景观",
+        "content": "位于萨格勒布下城区，是“莱努奇马蹄形”（由城市广场和公园组成的U形系统）的第一部分，也是游客走出中央火车站时看到的第一道风景。广场上有着精心修剪的草坪、色彩缤纷的花坛和绿树成荫的小径。"
+      }
+    ]
+  },
+  "faq": {
+    "title": "常见问题解答",
+    "items": [
+      {
+        "question": "托米斯拉夫国王广场的开放时间是什么？",
+        "answer": "作为一个公共城市公园，托米斯拉夫国王广场全天24小时开放。不过，附近的艺术亭和其他景点有各自的特定开放时间。"
+      },
+      {
+        "question": "需要门票吗？",
+        "answer": "不需要，公园完全免费向公众开放。"
+      },
+      {
+        "question": "有导游服务吗？",
+        "answer": "虽然公园本身不提供官方导游服务，但许多萨格勒布城市徒步游的路线都会包含托米斯拉夫国王广场。"
+      },
+      {
+        "question": "轮椅使用者可以进入吗？",
+        "answer": "是的，公园内有平坦铺砌的小径，完全适合轮椅和婴儿车通行。"
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "基础信息",
+    "officialName": "正式名称",
+    "officialNameValue": "Kalaja e Lëkurësit",
+    "type": "景点类型",
+    "typeValue": "城堡",
+    "country": "国家",
+    "countryValue": "阿尔巴尼亚 (Albania)",
+    "city": "城市",
+    "cityValue": "萨兰达 (Sarandë)",
+    "googleRating": "谷歌评分",
+    "googleRatingValue": "4.3 (6,840)",
+    "address": "地址",
+    "addressValue": "Sarandë, 阿尔巴尼亚",
+    "telephone": "联系电话",
+    "telephoneValue": "无",
+    "accessibility": "无障碍设施",
+    "accessibilityValue": "可通行",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "V28G+97 萨兰达 阿尔巴尼亚"
+  },
+  "hours": {
+    "title": "开放时间",
+    "park": "公园开放",
+    "parkTime": "全天24小时开放",
+    "bestTime": "最佳游览时间",
+    "bestTimeSpring": "春季：生机勃勃的花卉展示",
+    "bestTimeSummer": "夏季：在草坪上放松休闲",
+    "bestTimeAutumn": "秋季：美丽的秋叶色彩",
+    "bestTimeWinter": "冬季：降临节期间的溜冰公园",
+    "tip": "在日落时分游览公园，可以欣赏到艺术亭最美的光影效果。"
+  },
+  "tickets": {
+    "title": "门票信息",
+    "park": "公园门票",
+    "parkPrice": "免费对公众开放",
+    "parking": "停车信息",
+    "parkingPrice": "附近有公共收费停车场",
+    "guided": "导游服务",
+    "guidedPrice": "许多城市徒步游包含此景点"
+  },
+  "transport": {
+    "title": "交通指南",
+    "fromCenter": "从主广场 (Ban Jelačić)",
+    "fromCenterDesc": "向南穿过公园，步行约10-15分钟。",
+    "fromStation": "从中央火车站",
+    "fromStationDesc": "位于火车站正门正对面，步行即达。",
+    "fromAirport": "从萨格勒布机场",
+    "fromAirportDesc": "乘坐机场穿梭巴士至中央汽车站，然后换乘短暂的有轨电车。",
+    "publicTransport": "公共交通",
+    "publicTransportDesc": "有轨电车 2, 4, 6, 9 和 13 号线直接在 'Glavni kolodvor' (中央火车站) 停靠。",
+    "walking": "步行",
+    "walkingDesc": "从萨格勒布市中心各处均可轻松步行抵达。",
+    "driving": "自驾",
+    "drivingDesc": "跟随指示牌前往 Glavni kolodvor；路边停车位有限。"
+  },
+  "route": {
+    "title": "推荐游览路线",
+    "overview": "探索构成萨格勒布“绿马蹄”的美丽广场和公园。",
+    "steps": [
+      "抵达 Glavni kolodvor (中央火车站)",
+      "欣赏托米斯拉夫国王纪念碑",
+      "漫步穿过中央草坪和花坛",
+      "在艺术亭前拍照留念",
+      "向北继续前往兹里涅瓦茨公园 (Zrinjevac Park)"
+    ]
+  },
+  "gallery": {
+    "title": "照片画廊",
+    "subtitle": "托米斯拉夫国王广场之美",
+    "captions": [
+      "公园景观",
+      "纪念碑与艺术亭",
+      "美丽花坛",
+      "托米斯拉夫国王纪念碑",
+      "冬季冰上公园",
+      "夏日草坪",
+      "艺术亭特写",
+      "广场概览",
+      "历史建筑",
+      "步行小径",
+      "傍晚景色",
+      "喷泉细节",
+      "公园长椅"
+    ],
+    "viewAll": "在Google地图上查看位置",
+    "showAll": "显示完整照片",
+    "showLess": "收起照片"
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "评价信息可通过Google地图查看。",
+    "moreReviews": "在Google地图上查看更多评价",
+    "items": [
+      {
+        "name": "詹姆斯 W.",
+        "rating": 5,
+        "date": "2026-04-10",
+        "text": "绝对令人惊叹的公园！从纪念碑望向艺术亭的景色令人屏息。萨格勒布必去之地。"
+      },
+      {
+        "name": "索菲亚 M.",
+        "rating": 5,
+        "date": "2026-03-22",
+        "text": "令人难以置信的城市公园，鲜花盛开。在一个阳光明媚的下午坐在这里真是太放松了。"
+      },
+      {
+        "name": "安德烈亚斯 K.",
+        "rating": 5,
+        "date": "2026-02-15",
+        "text": "冬季的溜冰公园充满魔力。气氛真是太棒了！"
+      },
+      {
+        "name": "艾玛 L.",
+        "rating": 4,
+        "date": "2026-01-30",
+        "text": "就在火车站旁边的美丽公园。给人留下了对这座城市的极佳第一印象。"
+      },
+      {
+        "name": "迈克尔 R.",
+        "rating": 5,
+        "date": "2025-12-18",
+        "text": "这是一件美妙的城市建筑作品。整个“绿马蹄”区域都非常棒。"
+      },
+      {
+        "name": "琳达 T.",
+        "rating": 5,
+        "date": "2025-11-25",
+        "text": "萨格勒布最好的公共空间之一。维护得非常好，拍照也很上镜。"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "地图位置",
+    "subtitle": "V28G+97 萨兰达 阿尔巴尼亚",
+    "openMaps": "在Google地图上查看位置"
+  },
+  "footer": {
+    "brandName": "Lëkurësi Castle",
+    "brandSubtitle": "城堡 · 萨兰达，阿尔巴尼亚",
+    "rights": "© 2026 独立旅游研究项目 · 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 设置",
+    "officialResourcesTitle": "官方资源与资讯",
+    "officialLinks": {
+      "mfa": "阿尔巴尼亚欧洲与外交事务部 —— 国际游客免签与签证政策查询",
+      "akt": "阿尔巴尼亚国家旅游局",
+      "qarku": "夫罗勒大区委员会",
+      "saranda": "萨兰达市政府",
+      "iktk": "阿尔巴尼亚国家文化遗产研究所",
+      "arkiva": "阿尔巴尼亚国家档案总局"
+    },
+    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+  },
+  "officialManagement": {
+    "title": "关于托米斯拉夫国王广场",
+    "text": "托米斯拉夫国王广场由萨格勒布市政府管理，并作为萨格勒布文化和城市遗产的重要组成部分受到保护。"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "heading": "信息收集",
+        "content": "当您访问我们的网站时，我们可能会自动收集有关您的设备、浏览器和浏览行为的基本信息，以提供更好的用户体验。此信息不包含您的个人身份。"
+      },
+      {
+        "heading": "Cookie的使用",
+        "content": "我们使用cookie来分析网站流量并优化页面内容。您可以随时通过网站底部的\"Cookie设置\"选项管理您的偏好。"
+      },
+      {
+        "heading": "数据安全与保护",
+        "content": "我们致力于保护您的隐私数据安全，不会将您的浏览数据出售、出租或交易给第三方商业组织。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "heading": "网站内容与使用",
+        "content": "本网站提供有关托米斯拉夫国王广场的旅游、交通和历史信息。所有内容仅供参考。实际开放时间和景点信息可能随时更改；请参考官方公告。"
+      },
+      {
+        "heading": "知识产权",
+        "content": "本网站上的文本、图像和设计受版权保护。未经明确书面许可，任何人不得将网站内容用于商业目的。"
+      },
+      {
+        "heading": "免责声明",
+        "content": "我们努力确保信息的准确性和及时性，但对于因使用本网站提供的信息而直接或间接导致的旅行延误或损失，我们不承担法律责任。"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie 设置",
+    "description": "管理您的 Cookie 偏好。",
+    "essential": {
+      "title": "必要的 Cookie",
+      "description": "基本网站功能所必需的，无法禁用。",
+      "badge": "始终开启"
+    },
+    "analytics": {
+      "title": "分析",
+      "description": "帮助我们了解访问者行为并改进网站。"
+    },
+    "marketing": {
+      "title": "营销",
+      "description": "用于跨站跟踪和提供个性化广告。"
+    },
+    "save": "保存偏好",
+    "saved": "偏好已保存！"
+  }
+}

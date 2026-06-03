@@ -1,0 +1,200 @@
+lekuresi-castle
+
+
+
+给这个单景点买域名.com推荐
+
+
+
+我们网站是
+
+检查一遍看下是否有错误
+
+丰富下页面内容现在的内容还是太薄的了
+
+
+lekuresi-castle
+
+你正在用（Next.js开发）
+为一个新景点【 Lëkurësi Castle 】构建静态/Next.js 单页指南网站。
+页面只需要支持中文和英文双语言
+
+
+阿尔巴尼亚夫罗勒州	Lëkurësi Castle
+
+Lëkurësi Castle
+Kalaja e Lëkurësit
+4.3(6,840)
+城堡
+Sarandë, 阿尔巴尼亚
+V28G+97 萨兰达 阿尔巴尼亚
+
+https://maps.app.goo.gl/Vh8wMe2L3UsdvpAC8
+
+首屏背景图要引用以下
+C:\Users\Administrator\Downloads\阿尔巴尼亚\lekuresi-castle\public\gallery\lekuresi-castle (2).jpg
+
+
+删除原先友情链接，新增以下友情链接
+
+
+阿尔巴尼亚欧洲与外交事务部 —— 国际游客免签与签证政策查询
+punetejashtme.gov.al/en/regjimi-i-vizave-per-te-huajt/
+阿尔巴尼亚国家旅游局	
+https://akt.gov.al/
+夫罗勒大区委员会	
+https://qarkuvlore.gov.al/
+萨兰达市政府	
+https://bashkiasarande.gov.al/
+阿尔巴尼亚国家文化遗产研究所	
+https://iktk.gov.al/
+阿尔巴尼亚国家档案总局	
+https://arkiva.gov.al/
+
+
+
+
+在Google地图上查看位置都跳转为 https://maps.app.goo.gl/Vh8wMe2L3UsdvpAC8
+页面一共四个链接每一个都需要修改
+
+
+照片画廊
+精彩照片 显示照片不全目前只显示8张，需要有显示完整照片显示功能
+检查照片名称是否正确并修正
+
+
+删除 探索更多 板块
+
+
+首屏谷歌地图位置跳转为 https://maps.app.goo.gl/Vh8wMe2L3UsdvpAC8
+
+照片画廊
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/Vh8wMe2L3UsdvpAC8
+
+游客评价
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/Vh8wMe2L3UsdvpAC8
+
+地图位置
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/Vh8wMe2L3UsdvpAC8
+
+首屏右侧切换中文的时候 网站没转为/zh
+
+新增
+阿尔巴尼亚语（Shqip）
+
+生成一个文件忽略不需要上传的文件
+
+
+
+
+
+
+
+
+给这个单景点买域名.com推荐
+
+
+
+
+
+
+
+我们网站是
+检查下有没有错误
+
+
+
+阿尔巴尼亚夫罗勒州	Lëkurësi Castle
+
+Lëkurësi Castle
+Kalaja e Lëkurësit
+4.3(6,840)
+城堡
+Sarandë, 阿尔巴尼亚
+V28G+97 萨兰达 阿尔巴尼亚
+
+给我五个国家级、大区级、市级到专业遗产数据库的完整链条
+
+严格限制为国家及地方政府官方、官方官方旅游局、出入境管理、的网站友情链接，确保全部具备纯正的官方政府背景：
+
+
+
+阿尔巴尼亚经济、文化与创新部
+meki.gov.al
+萨兰达市政府
+bashkiasarande.gov.al
+阿尔巴尼亚国家文化遗产研究所
+iktk.gov.al
+阿尔巴尼亚旅游与环境部
+turizmi.gov.al
+阿尔巴尼亚国家旅游局
+albania.al
+夫罗勒大区委员会
+qarkuvlore.gov.al
+阿尔巴尼亚国家领土规划局
+planifikimi.gov.al
+夫罗勒大区行政长官办公室
+prefekturavlore.gov.al
+国家地理空间信息管理局 (ASIG)
+asig.gov.al
+
+阿尔巴尼亚内政部
+mb.gov.al
+阿尔巴尼亚国家警察 - 边境与移民部
+asp.gov.al
+萨兰达港口边境检查站
+portisarande.com.al
+阿尔巴尼亚国家档案总局
+arkiva.gov.al
+
+
+
+这是为您整理的关于萨兰达 **Lëkurësi 城堡 (Kalaja e Lëkurësit)** 的 5 个纯官方政府数据与管辖链条。
+
+根据您的严格要求，这些链条已彻底过滤掉所有商业旅游网站或第三方平台，层级严格从阿尔巴尼亚国家级政府机构、国家旅游局、出入境管理部门，自上而下精准贯穿至大区级、市级，最终落地于专业的遗产或空间数据库。所有节点均具备纯正的官方政府背景（基于 `.gov.al` 或官方专属后缀体系）。
+
+### 1. 核心文化遗产保护与备案链 (Cultural Heritage Protection Chain)
+
+这条链条是 Lëkurësi 城堡作为历史建筑获取合法保护身份的最核心、最权威的官方路径。
+
+* **国家级政府：** 阿尔巴尼亚经济、文化与创新部 (Ministria e Ekonomisë, Kulturës dhe Inovacionit) — `meki.gov.al`
+* **大区级管辖：** 夫罗勒大区文化遗产区域局 (Drejtoria Rajonale e Trashëgimisë Kulturore Vlorë) — 负责阿尔巴尼亚南部的日常文物巡查。
+* **市级政府：** 萨兰达市政府 (Bashkia Sarandë) — `bashkiasarande.gov.al`
+* **专业遗产数据库：** 阿尔巴尼亚国家文化遗产研究所 (Instituti Kombëtar i Trashëgimisë Kulturore, **IKTK**) — `iktk.gov.al`。Lëkurësi 城堡在该数据库中拥有唯一的国家文化古迹登记编号，记录了其建于 1537 年（苏莱曼大帝时期）的官方测绘数据。
+
+### 2. 官方国家旅游宣发与目的地链 (Official Tourism & Destination Chain)
+
+这条链条展示了阿尔巴尼亚官方如何自上而下将该城堡作为地标向全球游客推介。
+
+* **国家级政府：** 阿尔巴尼亚旅游与环境部 (Ministria e Turizmit dhe Mjedisit) — `turizmi.gov.al`
+* **国家官方旅游局：** 阿尔巴尼亚国家旅游局 (Agjencia Kombëtare e Turizmit, **AKT**) — `albania.al` (唯一纯官方国家级旅游门户)。
+* **大区级规划：** 夫罗勒大区委员会 (Këshilli i Qarkut Vlorë) — `qarkuvlore.gov.al` (统筹“阿尔巴尼亚里维埃拉”旅游大区规划)。
+* **市级旅游局：** 萨兰达市政府官方旅游与信息中心 (Zyra e Turizmit, Bashkia Sarandë)。
+
+### 3. 行政领土规划与空间地理链 (Administrative & Spatial Planning Chain)
+
+用于在地理测绘和城市扩建中保护该城堡所在山丘及周边用地的官方规划链。
+
+* **国家级政府：** 阿尔巴尼亚国家领土规划局 (Agjencia Kombëtare e Planifikimit të Territorit, **AKPT**) — `planifikimi.gov.al`
+* **大区级政府：** 夫罗勒大区行政长官办公室 (Institucioni i Prefektit të Qarkut Vlorë) — `prefekturavlore.gov.al` (行使中央派驻的行政监督权)。
+* **市级政府：** 萨兰达市政府领土规划与发展局 (Drejtoria e Planifikimit dhe Zhvillimit të Territorit)。
+* **专业空间数据库：** 国家地理空间信息管理局 (**ASIG**) — `asig.gov.al` 与 萨兰达总体地方规划 (PPV Sarandë) 数据库，在空间图层上将 Lëkurësi 城堡划定为受保护的景观和历史遗迹红线区。
+
+### 4. 出入境管理与边境地标指引链 (Immigration, Border Control & Navigational Chain)
+
+由于城堡地势极高，能俯瞰萨兰达湾并直视希腊科孚岛，它是重要的边检视觉地标。
+
+* **国家级政府：** 阿尔巴尼亚内政部 (Ministria e Brendshme) — `mb.gov.al`
+* **出入境管理：** 阿尔巴尼亚国家警察 - 边境与移民部 (Departamenti për Kufirin dhe Migracionin) — `asp.gov.al`
+* **市级口岸/边境：** 萨兰达港口边境检查站 (Porti i Sarandës) — `portisarande.com.al` (100% 国有控股，负责科孚岛入境游轮)。
+* **专业地标备案：** 城堡的地理位置在出入境口岸的海事与陆路瞭望指引系统中作为重要的战略地理坐标存在。
+
+### 5. 官方档案与考古学术溯源链 (Official Archives & Archaeological Records Chain)
+
+用于支撑该城堡历史信息的纯学术与国家档案底层数据库。
+
+* **国家级机构：** 阿尔巴尼亚国家档案总局 (Drejtoria e Përgjithshme e Arkivave) — `arkiva.gov.al`
+* **大区/国家级科研：** 阿尔巴尼亚科学院 (Akatemia e Shkencave e Shqipërisë) — `akad.gov.al`
+* **市级文献库：** 萨兰达历史文献与当地政府档案室。
+* **专业遗产数据库：** 阿尔巴尼亚考古研究所 (Instituti i Arkeologjisë) 数据库。该机构提供关于 Lëkurësi 城堡内发掘的奥斯曼帝国时期驻军遗迹、废弃村庄以及二战期间炮兵阵地改造的最详尽考古发掘报告。
+
