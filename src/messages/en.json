@@ -1,10 +1,13 @@
 {
   "meta": {
-    "title": "Lëkurësi Castle – Sarandë, Albania",
-    "description": "Complete travel guide to Lëkurësi Castle (Kalaja e Lëkurësit) in Sarandë, Albania. Learn about this 16th-century fortress, including its history, sunset views, restaurant, and visitor information."
+    "title": "Lëkurësi Castle Saranda: Ultimate Sunset & Visitor Guide (2026)",
+    "description": "Visiting Lekuresi Castle in Saranda? Free entrance, panoramic Ionian views, hilltop restaurant, and taxi/walking info. Plan your sunset visit today!"
   },
   "header": {
     "home": "Home",
+    "overview": "Overview",
+    "history": "History",
+    "facilities": "Facilities",
     "gallery": "Gallery",
     "reviews": "Reviews",
     "map": "Map",
@@ -13,15 +16,16 @@
   "hero": {
     "title": "Lëkurësi Castle",
     "subtitle": "Castle · Sarandë, Albania",
+    "aliases": "Also known as: Lekursi Castle · Kalaja e Lëkurësit",
     "rating": "4.3",
-    "reviewCount": "6,840 reviews",
+    "reviewCount": "8,009 reviews",
     "type": "Castle",
     "openMaps": "View on Google Maps",
     "mapsLink": "https://maps.app.goo.gl/Vh8wMe2L3UsdvpAC8"
   },
   "intro": {
     "title": "Discover Lëkurësi Castle",
-    "description": "Lëkurësi Castle (Kalaja e Lëkurësit) is a 16th-century ruined fortress perched on a strategic hilltop overlooking Sarandë, Albania. Built in 1537 by Sultan Suleiman the Magnificent, the castle offers breathtaking panoramic views of the city, the Ionian Sea, and the island of Corfu. Today, it stands as a popular landmark and a stunning viewpoint, especially renowned for its spectacular sunsets.",
+    "description": "Lëkurësi Castle (also known as Lekursi Castle, or locally as Kalaja e Lëkurësit) is a 16th-century ruined fortress perched on a strategic hilltop overlooking Sarandë, Albania. Built in 1537 by Sultan Suleiman the Magnificent, the castle offers breathtaking panoramic views of the city, the Ionian Sea, and the island of Corfu. Today, it stands as a popular landmark and a stunning viewpoint, especially renowned for its spectacular sunsets.",
     "visitGuide": {
       "title": "Visit Tips",
       "items": [
@@ -63,23 +67,115 @@
         "id": "protection",
         "title": "Modern Significance",
         "content": "Following partial restorations in the 20th and 21st centuries, Lëkurësi Castle has transformed into Saranda's principal viewpoint. The interior now houses a popular restaurant, making it a vibrant cultural and tourist hub, especially during summer evenings."
+      },
+      {
+        "id": "panorama",
+        "title": "360° Panorama View",
+        "content": "From the castle walls you can take in a near-360° panorama that spans the island of Corfu to the west, the Ksamil beaches and the Ionian islets to the south, the Butrint Lake inland, and the full sweep of Saranda and its bay below. On clear days the view reaches as far as the Greek island of Paxos."
+      },
+      {
+        "id": "restaurant",
+        "title": "The Castle Restaurant",
+        "content": "The on-site Restorant Kalaja e Lëkurësit is an open-air restaurant inside the castle walls serving traditional Albanian food — grilled meat, local cheese and seafood — with a terrace that overlooks the entire bay. In summer evenings it hosts Albanian folk music and dance performances, making it one of Saranda's most atmospheric dining spots."
+      },
+      {
+        "id": "defense",
+        "title": "Defense System & Strategic Layout",
+        "content": "Lëkurësi Castle was built as a forward defensive post during Suleiman the Magnificent's 1537 campaign against Corfu. It protected the harbor of Sarandë and secured the inland route towards Butrint against raids from the sea. The square plan, two round corner towers and walls roughly 2 meters thick were designed to withstand artillery fire, while the elevated position on Lekursi Hill gave the garrison line-of-sight control over the bay, the Corfu Channel and the road to Butrint."
+      },
+      {
+        "id": "butrint",
+        "title": "Connection with Butrint Ancient City",
+        "content": "The castle stands along the historic corridor linking Sarandë with Butrint, the UNESCO-listed ancient city roughly 18 km to the south. In Ottoman times the fortress guarded this same corridor, and today the two sites can be combined in a single day: from the castle terrace the Butrint area is visible on the horizon, while the onward route passes the Ksamil beaches and the Vivari Channel. A hilltop fort and a lakeside ancient city together tell the story of how this coast was defended and inhabited from antiquity through the Ottoman era."
       }
     ]
+  },
+  "quickFacts": {
+    "title": "Quick Facts at a Glance",
+    "items": [
+      {
+        "key": "entranceFee",
+        "label": "Entrance Fee",
+        "value": "Free — no ticket required for the castle grounds"
+      },
+      {
+        "key": "openingHours",
+        "label": "Opening Hours",
+        "value": "Open 08:00–23:00 daily"
+      },
+      {
+        "key": "distance",
+        "label": "Distance from Sarandë",
+        "value": "~4 km · 10 min by taxi, 45–60 min walk uphill"
+      },
+      {
+        "key": "bestTime",
+        "label": "Best Time to Visit",
+        "value": "1 hour before sunset — Golden Hour over Corfu & the Bay"
+      },
+      {
+        "key": "facilities",
+        "label": "On-Site Facilities",
+        "value": "Restorant Kalaja e Lëkurësit · Parking · Bar"
+      }
+    ]
+  },
+  "weather": {
+    "title": "Weather & Sunset Times",
+    "subtitle": "Live conditions above Saranda — check before you head up the hill.",
+    "current": "Current Conditions",
+    "temp": "Temperature",
+    "feelsLike": "Feels Like",
+    "wind": "Wind",
+    "humidity": "Humidity",
+    "sunrise": "Sunrise",
+    "sunset": "Sunset",
+    "sunsetTip": "Arrive 45–60 minutes before sunset to catch the golden hour over Corfu.",
+    "forecast": "Next 3 Days",
+    "loading": "Loading live weather…",
+    "error": "Live weather is temporarily unavailable — check the local forecast on the day.",
+    "updated": "Live data via Open-Meteo",
+    "conditions": {
+      "clear": "Clear sky",
+      "mainlyClear": "Mainly clear",
+      "partlyCloudy": "Partly cloudy",
+      "overcast": "Overcast",
+      "fog": "Fog",
+      "drizzle": "Drizzle",
+      "rain": "Rain",
+      "freezingRain": "Freezing rain",
+      "snow": "Snow",
+      "showers": "Rain showers",
+      "snowShowers": "Snow showers",
+      "thunderstorm": "Thunderstorm"
+    }
   },
   "faq": {
     "title": "Frequently Asked Questions",
     "items": [
       {
-        "question": "What are the opening hours of Lëkurësi Castle?",
-        "answer": "The castle ruins are open 24/7 and entry is free. The restaurant inside operates during lunch and evening hours, typically staying open late."
+        "question": "Is Lekuresi Castle free to visit?",
+        "answer": "Yes, visiting the Lëkurësi Castle grounds and taking in the panoramic sunset views is completely free. Charges only apply if you dine at the on-site restaurant."
       },
       {
-        "question": "Is there an entrance fee?",
-        "answer": "No, exploring the castle ruins and enjoying the panoramic views is completely free to the public."
+        "question": "How to get from Saranda to Lekuresi Castle?",
+        "answer": "You can reach Lekuresi Castle by a 10-minute taxi ride (approx. €10–15) or drive up the paved hill road. Hiking up takes around 45 to 60 minutes from the city center — avoid the midday heat in summer."
       },
       {
-        "question": "How do I get to the castle from Saranda?",
-        "answer": "It is a 10-minute drive by car or taxi from the city center. You can also walk up the paved road, which takes about 45-60 minutes, though it can be steep and hot in summer."
+        "question": "What is the best time to watch the sunset at Lekuresi Castle?",
+        "answer": "Arrive about 45–60 minutes before sunset to secure a good spot. The golden hour casts dramatic light over Saranda, the bay and Corfu island. Sunset times vary by season — check the local forecast on the day."
+      },
+      {
+        "question": "Can I book a table at the castle restaurant?",
+        "answer": "Yes. The on-site Restorant Kalaja e Lëkurësit serves traditional Albanian dishes, grilled meat and local cheese. In summer, tables on the open terrace are in high demand, so it is wise to book in advance, especially for sunset."
+      },
+      {
+        "question": "How far is Lekuresi Castle from Saranda?",
+        "answer": "The castle sits about 4 km from Saranda's center on Lekursi Hill — roughly a 10-minute drive or taxi ride, or a 45–60 minute uphill walk."
+      },
+      {
+        "question": "Is there parking at Lekuresi Castle?",
+        "answer": "Yes, there is free parking at the summit. Arrive at least half an hour before sunset in peak season, as spaces fill up quickly."
       },
       {
         "question": "Are there facilities or restaurants on-site?",
@@ -98,7 +194,7 @@
     "city": "City",
     "cityValue": "Sarandë",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.3 (6,840)",
+    "googleRatingValue": "4.3 (8,009)",
     "address": "Address",
     "addressValue": "Sarandë, Albania",
     "accessibility": "Accessibility",
@@ -109,7 +205,7 @@
   "hours": {
     "title": "Visiting Hours",
     "park": "Castle Access",
-    "parkTime": "Open 24 hours daily",
+    "parkTime": "08:00–23:00 daily",
     "bestTime": "Best Time to Visit",
     "bestTimeSpring": "Spring: Pleasant weather and clear views",
     "bestTimeSummer": "Summer: Vibrant atmosphere and live music in the evening",
@@ -129,7 +225,7 @@
   "transport": {
     "title": "How to Get Here",
     "fromCenter": "From City Center",
-    "fromCenterDesc": "A taxi ride from Saranda center takes about 10-15 minutes and costs approximately 5-10 EUR (500-1000 LEK).",
+    "fromCenterDesc": "A taxi from Saranda center takes about 10 minutes and costs roughly €10–15 (1200–1800 LEK). Agree on the fare with the driver before setting off.",
     "fromStation": "From Ferry Port",
     "fromStationDesc": "About a 10-15 minute taxi ride from the Saranda Ferry Terminal directly to the castle.",
     "fromAirport": "From Tirana/Corfu Airport",
@@ -139,7 +235,119 @@
     "walking": "Walking",
     "walkingDesc": "A 45-60 minute uphill hike via a paved switchback road. Bring plenty of water in the summer!",
     "driving": "Driving",
-    "drivingDesc": "The road up is paved and in good condition. Free parking is available right at the summit."
+    "drivingDesc": "The paved road up Lekursi Hill is in good condition. Free parking is available right at the summit, but spaces fill up quickly in the half hour before sunset."
+  },
+  "facilities": {
+    "title": "Facilities & Services",
+    "subtitle": "What you will and won't find at the castle — from toilets and parking to dining, fuel and accommodation.",
+    "note": "As a non-profit, independent information platform, we list facility types only and never recommend specific businesses.",
+    "items": [
+      {
+        "id": "wc",
+        "title": "Public Toilets",
+        "description": "There are no public toilets inside the castle grounds. Washrooms are available at the on-site restaurant and at cafés along the access road for customers. The nearest public conveniences are in Sarandë's centre, about 10 minutes downhill."
+      },
+      {
+        "id": "parking",
+        "title": "Parking",
+        "description": "A free parking area sits at the summit, just below the castle walls. Spaces are limited and fill quickly in the hour before sunset — arriving early is strongly recommended, especially from June to September."
+      },
+      {
+        "id": "dining",
+        "title": "Restaurants",
+        "description": "Inside the walls, a seasonal open-air restaurant serves traditional Albanian and Mediterranean dishes — grilled meats, fresh seafood and local cheeses. More restaurants and tavernas line the access road and the waterfront of Sarandë."
+      },
+      {
+        "id": "cafes",
+        "title": "Cafés & Bars",
+        "description": "In summer, cafés and bars at the summit serve drinks, coffee and refreshments with a panoramic view. In the low season, options at the top are limited or closed, so plan ahead."
+      },
+      {
+        "id": "accommodation",
+        "title": "Accommodation",
+        "description": "There is no lodging at the castle itself. Hotels, guesthouses and apartments are plentiful in Sarandë's centre and along its bayfront — roughly a 10-minute drive away."
+      },
+      {
+        "id": "shopping",
+        "title": "Shops & Supermarkets",
+        "description": "The hilltop has no shops. Supermarkets, bakeries, pharmacies and souvenir shops are concentrated in Sarandë's town centre and along the main coastal road."
+      },
+      {
+        "id": "fuel",
+        "title": "Fuel & EV Charging",
+        "description": "Petrol stations are located in Sarandë's centre and on the main access roads. Public EV charging points are still scarce in the area; the nearest are generally found near the harbour and along the main boulevard."
+      },
+      {
+        "id": "atm",
+        "title": "ATMs & Money",
+        "description": "ATMs and currency exchanges are available in Sarandë's centre. Cards are accepted at most restaurants, but it is wise to carry some cash (LEK or EUR) as the hilltop offers no banking services."
+      }
+    ]
+  },
+  "history": {
+    "title": "History Through the Ages",
+    "subtitle": "From a 16th-century Ottoman stronghold to Sarandë's favourite sunset viewpoint.",
+    "timeline": [
+      {
+        "era": "1537",
+        "title": "Foundation under Suleiman the Magnificent",
+        "content": "The fortress was raised on Lekursi Hill in 1537 by order of Ottoman Sultan Suleiman the Magnificent, during his campaign against the island of Corfu. It guarded the harbour of Sarandë, controlled the coastal road and protected the inland route to Butrint. Contemporary records mention an initial garrison of about 220 soldiers."
+      },
+      {
+        "era": "16th–18th c.",
+        "title": "A small Ottoman stronghold",
+        "content": "For roughly two centuries the castle functioned as a modest watchtower-fortress rather than a major citadel. Its square plan with two massive round towers at opposite corners follows classic 16th-century military design, while the walls — up to 7 metres high and 2 metres thick — were built from local limestone."
+      },
+      {
+        "era": "1878",
+        "title": "Loss of military role and abandonment",
+        "content": "After the Russo-Turkish War and the redrawing of borders in the late 19th century, the castle's strategic value disappeared. It was gradually abandoned after 1878, left to crumble and be reclaimed by vegetation on the hilltop."
+      },
+      {
+        "era": "20th c.",
+        "title": "Rediscovery and restoration",
+        "content": "In the 20th century, consolidation and partial restoration works preserved the surviving walls. The site was recognised as a protected cultural monument and became a quiet lookout point appreciated by local residents and travellers alike."
+      },
+      {
+        "era": "Today",
+        "title": "Sarandë's landmark viewpoint",
+        "content": "Today Lëkurësi Castle is among the most visited viewpoints of southern Albania. A seasonal restaurant operates inside the walls, and every evening the terrace fills with visitors watching the sun sink over the Ionian Sea and the island of Corfu."
+      }
+    ]
+  },
+  "legends": {
+    "title": "Stories & Local Legends",
+    "note": "The stories below are folk traditions and oral legends. They are told by local residents and travellers but have not been confirmed by historical records.",
+    "items": [
+      {
+        "id": "name",
+        "kind": "folk",
+        "kindLabel": "Folk etymology",
+        "title": "Where does the name \"Lëkurës\" come from?",
+        "content": "A widely repeated local tradition connects the name with the Albanian word \"lëkurë\" (skin or leather), suggesting the hill was once tied to leather-working or tanning. Others trace it to a local family name or to an older Greek word for the district. None of these explanations is confirmed — they remain folk etymologies."
+      },
+      {
+        "id": "sultan",
+        "kind": "folk",
+        "kindLabel": "Local legend",
+        "title": "The sultan's choice of the hilltop",
+        "content": "According to a popular tale, Sultan Suleiman the Magnificent himself climbed Lekursi Hill to select the site, and from the unfinished tower he watched the fires of his fleet preparing to strike Corfu. It is a vivid story often retold to visitors, though no contemporary source records such a visit."
+      },
+      {
+        "id": "guards",
+        "kind": "folk",
+        "kindLabel": "Folk tale",
+        "title": "The silent guards of the walls",
+        "content": "An old folk tale holds that on moonlit nights the silhouettes of the long-gone Ottoman guards can still be seen pacing the walls. Older residents of Sarandë enjoy retelling the story, yet no one has ever produced a first-hand witness."
+      },
+      {
+        "id": "treasure",
+        "kind": "folk",
+        "kindLabel": "Treasure tale",
+        "title": "The buried treasure of the hill",
+        "content": "Another oft-told tale speaks of a hoard buried by the garrison before the fortress was abandoned in 1878. Generations of treasure hunters have dug among the olive groves — finding nothing but stones and roots, and leaving the legend to grow."
+      }
+    ]
   },
   "route": {
     "title": "Recommended Route",
@@ -168,7 +376,10 @@
       "Castle courtyard",
       "Historic architecture",
       "View of Butrint Lake",
-      "Summer evening atmosphere"
+      "Summer evening atmosphere",
+      "View from the castle hill",
+      "Golden hour over the bay",
+      "Sunset view from the castle"
     ],
     "viewAll": "View on Google Maps",
     "showAll": "View All Photos",
@@ -176,7 +387,7 @@
   },
   "reviews": {
     "title": "Visitor Reviews",
-    "declaration": "Reviews can be viewed via Google Maps.",
+    "declaration": "Reviews are excerpted from Google Maps listings and reflect the views of the individual reviewers only.",
     "moreReviews": "View more reviews on Google Maps",
     "items": [
       {
@@ -238,7 +449,35 @@
       "iktk": "National Institute of Cultural Heritage",
       "arkiva": "General Directorate of Archives"
     },
-    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies."
+    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies.",
+    "imageRights": "All images displayed on this website are the property and copyright of their respective photographers."
+  },
+  "sources": {
+    "title": "Sources & References",
+    "description": "When visiting Lëkurësi Castle, you can easily explore nearby landmarks such as Butrint (a UNESCO World Heritage Site) and the Ksamil Islands. For official updates and regional tourism information, consult the sources below.",
+    "officialPortalLabel": "Albania Official Tourism Portal",
+    "items": [
+      {
+        "label": "Albania — Official Tourism Portal",
+        "url": "https://albania.al/"
+      },
+      {
+        "label": "National Tourism Agency of Albania (AKT)",
+        "url": "https://akt.gov.al/"
+      },
+      {
+        "label": "Municipality of Sarandë",
+        "url": "https://bashkiasarande.gov.al/"
+      },
+      {
+        "label": "National Institute of Cultural Heritage (IKTK)",
+        "url": "https://iktk.gov.al/"
+      },
+      {
+        "label": "UNESCO World Heritage Centre — Butrint",
+        "url": "https://whc.unesco.org/en/list/570/"
+      }
+    ]
   },
   "officialManagement": {
     "title": "About Lëkurësi Castle",
@@ -246,7 +485,7 @@
   },
   "privacy": {
     "title": "Privacy Policy",
-    "lastUpdated": "Last updated: May 2026",
+    "lastUpdated": "Last updated: August 31, 2026",
     "sections": [
       {
         "heading": "Information Collection",
@@ -264,7 +503,7 @@
   },
   "terms": {
     "title": "Terms of Service",
-    "lastUpdated": "Last updated: May 2026",
+    "lastUpdated": "Last updated: August 31, 2026",
     "sections": [
       {
         "heading": "Website Content and Use",

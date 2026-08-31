@@ -21,7 +21,7 @@ export async function generateMetadata({
         'zh': zhUrl,
         'en': enUrl,
         'sq': sqUrl,
-        'x-default': enUrl,
+        'x-default': sqUrl,
       },
     },
   };

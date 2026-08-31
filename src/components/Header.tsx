@@ -32,15 +32,22 @@ export default function Header() {
           Lëkurësi Castle
         </a>
 
-        <nav className="hidden md:flex items-center gap-6">
-          {(['gallery', 'reviews', 'map'] as const).map((section) => (
+        <nav className="hidden md:flex items-center gap-5">
+          {([
+            { key: 'overview', id: 'intro' },
+            { key: 'history', id: 'history' },
+            { key: 'facilities', id: 'facilities' },
+            { key: 'gallery', id: 'gallery' },
+            { key: 'reviews', id: 'reviews' },
+            { key: 'map', id: 'map' },
+          ] as const).map((item) => (
             <a
-              key={section}
-              href={`/#${section}`}
+              key={item.key}
+              href={`/${locale}/#${item.id}`}
               className="text-sm font-medium transition-colors"
               style={{ color: scrolled ? 'var(--text-secondary)' : 'rgba(255,255,255,0.85)' }}
             >
-              {t(section)}
+              {t(item.key)}
             </a>
           ))}
         </nav>

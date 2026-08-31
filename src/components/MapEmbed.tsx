@@ -28,7 +28,7 @@ export default function MapEmbed() {
             This is for visual cleanliness only. Google's Terms of Service apply.
           */}
           <iframe
-            src="https://maps.google.com/maps?q=L%C3%ABkur%C3%ABsi+Castle+Sarand%C3%AB+Albania&output=embed"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5446.877307644469!2d20.025774199999997!3d39.86587795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x135b148dc04f6045%3A0x95d6ef0683370cf8!2zTMOra3Vyw6tzaSBDYXN0bGU!5e1!3m2!1szh-CN!2s!4v1788176638703!5m2!1szh-CN!2s"
             width="100%"
             height="450"
             style={{ border: 0 }}

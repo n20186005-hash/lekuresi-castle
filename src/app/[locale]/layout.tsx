@@ -3,6 +3,10 @@ import { getMessages, setRequestLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
 import type { Metadata } from 'next';
+import Script from 'next/script';
+
+const baseUrl = 'https://lekuresicastle.com';
+const HERO_IMAGE = `${baseUrl}/gallery/lekuresi-castle-02.jpg`;
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -15,7 +19,6 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await import(`@/messages/${locale}.json`)).default;
-  const baseUrl = 'https://lekuresicastle.com';
 
   return {
     metadataBase: new URL(baseUrl),
@@ -24,9 +27,24 @@ export async function generateMetadata({
     openGraph: {
       title: messages.meta.title,
       description: messages.meta.description,
-      siteName: "Lëkurësi Castle",
+      url: `${baseUrl}/${locale}`,
+      siteName: 'Lëkurësi Castle',
       locale: locale === 'zh' ? 'zh_CN' : locale === 'sq' ? 'sq_AL' : 'en_US',
       type: 'website',
+      images: [
+        {
+          url: HERO_IMAGE,
+          width: 1200,
+          height: 630,
+          alt: 'Lëkurësi Castle - Main view in Sarandë, Albania',
+        },
+      ],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: messages.meta.title,
+      description: messages.meta.description,
+      images: [HERO_IMAGE],
     },
   };
 }
@@ -50,8 +68,6 @@ export default async function LocaleLayout({
   return (
     <html lang={locale === 'zh' ? 'zh-CN' : locale === 'sq' ? 'sq-AL' : 'en'} suppressHydrationWarning>
       <head>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX" crossOrigin="anonymous" />
-        <meta name="google-adsense-account" content="ca-pub-XXXXXXXXXX" />
         <script
           dangerouslySetInnerHTML={{
             __html: `
@@ -68,6 +84,29 @@ export default async function LocaleLayout({
         />
       </head>
       <body className="min-h-screen">
+        {/* Google Analytics 4 */}
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-HXM22WWPKP"
+          strategy="afterInteractive"
+        />
+        <Script id="gtag-init" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-HXM22WWPKP');
+          `}
+        </Script>
+        {/* PWA Service Worker */}
+        <Script id="sw-register" strategy="afterInteractive">
+          {`
+            if ('serviceWorker' in navigator) {
+              window.addEventListener('load', function () {
+                navigator.serviceWorker.register('/sw.js').catch(function () {});
+              });
+            }
+          `}
+        </Script>
         <NextIntlClientProvider messages={messages}>
           {children}
         </NextIntlClientProvider>

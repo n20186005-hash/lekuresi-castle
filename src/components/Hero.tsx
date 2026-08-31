@@ -10,9 +10,10 @@ export default function Hero() {
       {/* Background image slideshow */}
       <div className="absolute inset-0">
         <img
-          src="/gallery/lekuresi-castle (2).jpg"
-          alt="Lëkurësi Castle"
+          src="/gallery/lekuresi-castle-02.jpg"
+          alt="Lëkurësi Castle - Main view in Sarandë, Albania"
           className="w-full h-full object-cover"
+          fetchPriority="high"
         />
         <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />
       </div>
@@ -23,9 +24,14 @@ export default function Hero() {
           <h1 className="font-display text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-white leading-tight mb-4 animate-fade-in-up">
             {t('title')}
           </h1>
-          <p className="text-lg sm:text-xl text-white/80 mb-8 animate-fade-in-up animation-delay-100 font-light">
+          <p className="text-lg sm:text-xl text-white/80 mb-2 animate-fade-in-up animation-delay-100 font-light">
             {t('subtitle')}
           </p>
+          {t.has('aliases') && (
+            <p className="text-sm sm:text-base text-white/60 mb-8 animate-fade-in-up animation-delay-150">
+              {t('aliases')}
+            </p>
+          )}
 
           {/* Meta row */}
           <div className="flex flex-wrap items-center gap-4 mb-8 animate-fade-in-up animation-delay-200">

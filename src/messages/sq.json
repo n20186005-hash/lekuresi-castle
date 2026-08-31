@@ -1,10 +1,13 @@
 {
   "meta": {
-    "title": "Kalaja e Lëkurësit – Sarandë, Shqipëri",
-    "description": "Udhëzues i plotë udhëtimi për Kalanë e Lëkurësit në Sarandë, Shqipëri. Mësoni rreth kësaj kështjelle të shekullit të 16-të, duke përfshirë historinë, pamjet e perëndimit të diellit, restorantin dhe informacionet për vizitorët."
+    "title": "Kalaja e Lëkurësit Sarandë: Udhëzuesi i Plotë & Pamjet (2026)",
+    "description": "Po vizitoni Kalanë e Lëkurësit në Sarandë? Hyrje falas, pamje panoramike të Detit Jon, restorant në majë dhe info për taksi/ecje. Planifikoni vizitën tuaj në perëndim të diellit!"
   },
   "header": {
     "home": "Kreu",
+    "overview": "Përmbledhje",
+    "history": "Historia",
+    "facilities": "Objektet",
     "gallery": "Galeria",
     "reviews": "Vlerësime",
     "map": "Harta",
@@ -13,15 +16,16 @@
   "hero": {
     "title": "Kalaja e Lëkurësit",
     "subtitle": "Kështjellë · Sarandë, Shqipëri",
+    "aliases": "Gjithashtu e njohur si: Lekursi Castle · Kalaja e Lëkurësit",
     "rating": "4.3",
-    "reviewCount": "6,840 vlerësime",
+    "reviewCount": "8,009 vlerësime",
     "type": "Kështjellë",
     "openMaps": "Shiko në Google Maps",
     "mapsLink": "https://maps.app.goo.gl/Vh8wMe2L3UsdvpAC8"
   },
   "intro": {
     "title": "Zbuloni Kalanë e Lëkurësit",
-    "description": "Kalaja e Lëkurësit është një kështjellë e rrënuar e shekullit të 16-të, e vendosur në një kodër strategjike me pamje nga Saranda, Shqipëri. E ndërtuar në vitin 1537 nga Sulltan Sulejmani i Madhërishëm, kalaja ofron pamje panoramike të lë pa frymë të qytetit, Detit Jon dhe ishullit të Korfuzit. Sot, ajo qëndron si një pikë referimi popullore dhe një pikë e mrekullueshme vëzhgimi, e njohur veçanërisht për perëndimet e saj spektakolare.",
+    "description": "Kalaja e Lëkurësit (e njohur edhe si Lekursi Castle, ose lokalisht si Kalaja e Lëkurësit) është një kështjellë e rrënuar e shekullit të 16-të, e vendosur në një kodër strategjike me pamje nga Saranda, Shqipëri. E ndërtuar në vitin 1537 nga Sulltan Sulejmani i Madhërishëm, kalaja ofron pamje panoramike të lë pa frymë të qytetit, Detit Jon dhe ishullit të Korfuzit. Sot, ajo qëndron si një pikë referimi popullore dhe një pikë e mrekullueshme vëzhgimi, e njohur veçanërisht për perëndimet e saj spektakolare.",
     "visitGuide": {
       "title": "Këshilla për Vizitën",
       "items": [
@@ -63,23 +67,115 @@
         "id": "protection",
         "title": "Rëndësia Moderne",
         "content": "Pas restaurimeve të pjesshme në shekujt e 20-të dhe 21-të, Kalaja e Lëkurësit është transformuar në pikën kryesore të vëzhgimit të Sarandës. Pjesa e brendshme tani strehon një restorant popullor, duke e bërë atë një qendër të gjallë kulturore dhe turistike, veçanërisht gjatë mbrëmjeve të verës."
+      },
+      {
+        "id": "panorama",
+        "title": "Pamja Panoramike 360°",
+        "content": "Nga muret e kalasë mund të shijoni një panoramë gati 360° që përfshin ishullin e Korfuzit në perëndim, plazhet e Ksamilit dhe ishujt e Jonit në jug, Liqenin e Butrintit në brendësi dhe të gjithë Sarandën me gjirin e saj poshtë. Në ditë të kthjellëta, pamja arrin deri në ishullin grek të Paksosit."
+      },
+      {
+        "id": "restaurant",
+        "title": "Restoranti i Kalasë",
+        "content": "Restoranti në vend, Restorant Kalaja e Lëkurësit, është një restorant në ajër të hapur brenda mureve të kalasë që shërben ushqim tradicional shqiptar — mish të pjekur, djathë vendas dhe ushqim deti — me një tarracë që ka pamje mbi të gjithë gjirin. Në mbrëmjet e verës organizon muzikë dhe valle popullore shqiptare, duke e bërë atë një nga vendet më atmosferike të ngrënies në Sarandë."
+      },
+      {
+        "id": "defense",
+        "title": "Sistemi Mbrojtës & Vendosja Strategjike",
+        "content": "Kalaja e Lëkurësit u ndërtua si një post mbrojtës i avancuar gjatë fushatës së Sylejmanit të Madhërishëm në 1537 kundër Korfuzit. Ajo mbronte portin e Sarandës dhe siguronte rrugën e brendshme drejt Butrintit nga sulmet detare. Plani katror, dy kullat e rrumbullakëta në qoshe dhe muret rreth 2 metra të trasha ishin projektuar për t'i bërë ballë zjarrit të artilerisë, ndërsa pozicioni i ngritur në Kodrën e Lëkurësit i jepte garnizonit kontroll të plotë pamor mbi gjirin, kanalin e Korfuzit dhe rrugën për në Butrint."
+      },
+      {
+        "id": "butrint",
+        "title": "Lidhja me Qytetin Antik të Butrintit",
+        "content": "Kalaja ndodhet përgjatë korridorit historik që lidh Sarandën me Butrintin, qytetin antik të mbrojtur nga UNESCO, rreth 18 km në jug. Në kohën osmane kështjella ruante pikërisht këtë korridor dhe sot të dyja vendet mund të kombinohen në një ditë të vetme: nga tarraca e kalasë zona e Butrintit duket në horizont, ndërsa rruga vijuese kalon pranë plazheve të Ksamilit dhe kanalit të Vivarit. Kështu, një fortesë në majë të kodrës dhe një qytet antik buzë liqenit së bashku tregojnë historinë e mbrojtjes dhe banimit të kësaj bregdeti nga antikiteti deri në epokën osmane."
       }
     ]
+  },
+  "quickFacts": {
+    "title": "Fakte të Shpejta",
+    "items": [
+      {
+        "key": "entranceFee",
+        "label": "Tarifa e Hyrjes",
+        "value": "Falas — pa biletë për territorin e kalasë"
+      },
+      {
+        "key": "openingHours",
+        "label": "Oraret e Hapjes",
+        "value": "E hapur 08:00–23:00 çdo ditë"
+      },
+      {
+        "key": "distance",
+        "label": "Distanca nga Saranda",
+        "value": "~4 km · 10 min me taksi, 45–60 min në këmbë përpjetë"
+      },
+      {
+        "key": "bestTime",
+        "label": "Koha më e mirë për vizitë",
+        "value": "1 orë para perëndimit — Ora e Artë mbi Korfuzin & Gjirin"
+      },
+      {
+        "key": "facilities",
+        "label": "Objektet në Vend",
+        "value": "Restorant Kalaja e Lëkurësit · Parkim · Bar"
+      }
+    ]
+  },
+  "weather": {
+    "title": "Moti & Oraret e Perëndimit",
+    "subtitle": "Kushtet e gjalla mbi Sarandën — kontrollojini para se të ngjiteni në kodër.",
+    "current": "Kushtet Aktuale",
+    "temp": "Temperatura",
+    "feelsLike": "Ndjehet Si",
+    "wind": "Era",
+    "humidity": "Lagështia",
+    "sunrise": "Lindja e Diellit",
+    "sunset": "Perëndimi i Diellit",
+    "sunsetTip": "Arritni 45–60 minuta para perëndimit për të kapur orën e artë mbi Korfuzin.",
+    "forecast": "3 Ditët Në Vazhdim",
+    "loading": "Duke ngarkuar motin e gjallë…",
+    "error": "Moti i gjallë është përkohësisht i padisponueshëm — kontrolloni parashikimin lokal atë ditë.",
+    "updated": "Të dhëna të gjalla përmes Open-Meteo",
+    "conditions": {
+      "clear": "Qiell i kthjellët",
+      "mainlyClear": "Kryesisht i kthjellët",
+      "partlyCloudy": "Pjesërisht me re",
+      "overcast": "Me re",
+      "fog": "Mjegull",
+      "drizzle": "Rrëshqitje e lehtë",
+      "rain": "Shi",
+      "freezingRain": "Shi i ngrirë",
+      "snow": "Dëborë",
+      "showers": "Dush me shi",
+      "snowShowers": "Dush me dëborë",
+      "thunderstorm": "Stuhi me bubullima"
+    }
   },
   "faq": {
     "title": "Pyetjet e Bëra më Shpesh",
     "items": [
       {
-        "question": "Cilat janë oraret e hapjes së Kalasë së Lëkurësit?",
-        "answer": "Rrënojat e kalasë janë të hapura 24/7 dhe hyrja është falas. Restoranti brenda funksionon gjatë orëve të drekës dhe mbrëmjes, duke qëndruar zakonisht hapur deri vonë."
+        "question": "A është Kalaja e Lëkurësit falas për vizitë?",
+        "answer": "Po, vizitimi i territorit të Kalasë së Lëkurësit dhe shijimi i pamjeve panoramike të perëndimit është plotësisht falas. Tarifë aplikohet vetëm nëse hani në restorantin në vend."
       },
       {
-        "question": "A ka një tarifë hyrjeje?",
-        "answer": "Jo, eksplorimi i rrënojave të kalasë dhe shijimi i pamjeve panoramike është plotësisht i lirë për publikun."
+        "question": "Si të shkoj nga Saranda në Kalanë e Lëkurësit?",
+        "answer": "Mund të arrini në Kalanë e Lëkurësit me një udhëtim 10-minutësh me taksi (rreth €10–15) ose me makinë lart rrugës së shtruar. Ngjitja në këmbë zgjat rreth 45 deri në 60 minuta nga qendra e qytetit — shmangni vapën e mesditës në verë."
       },
       {
-        "question": "Si të shkoj në kala nga Saranda?",
-        "answer": "Është një udhëtim 10-minutësh me makinë ose taksi nga qendra e qytetit. Mund të ecni gjithashtu lart rrugës së shtruar, e cila zgjat rreth 45-60 minuta, megjithëse mund të jetë e pjerrët dhe e nxehtë në verë."
+        "question": "Cila është koha më e mirë për të parë perëndimin e diellit në Kalanë e Lëkurësit?",
+        "answer": "Arritni rreth 45–60 minuta para perëndimit të diellit për të siguruar një vend të mirë. Ora e artë hedh dritë dramatike mbi Sarandën, gjirin dhe ishullin e Korfuzit. Orari i perëndimit ndryshon sipas stinës — kontrolloni parashikimin lokal atë ditë."
+      },
+      {
+        "question": "A mund të rezervoj një tavolinë në restorantin e kalasë?",
+        "answer": "Po. Restoranti në vend, Restorant Kalaja e Lëkurësit, shërben pjata tradicionale shqiptare, mish të pjekur dhe djathë vendas. Në verë, tavolinat në tarracën e hapur janë shumë të kërkuara, prandaj këshillohet rezervim paraprak, veçanërisht për perëndimin e diellit."
+      },
+      {
+        "question": "Sa larg është Kalaja e Lëkurësit nga Saranda?",
+        "answer": "Kalaja ndodhet rreth 4 km nga qendra e Sarandës në Kodrën e Lëkurësit — rreth 10 minuta me makinë ose taksi, ose 45–60 minuta ngjitje në këmbë."
+      },
+      {
+        "question": "A ka parkim në Kalanë e Lëkurësit?",
+        "answer": "Po, ka parkim falas në majë. Në sezonin e lartë, arrini të paktën gjysmë ore para perëndimit të diellit, pasi vendet mbushen shpejt."
       },
       {
         "question": "A ka objekte ose restorante në vend?",
@@ -98,7 +194,7 @@
     "city": "Qyteti",
     "cityValue": "Sarandë",
     "googleRating": "Vlerësimi në Google",
-    "googleRatingValue": "4.3 (6,840)",
+    "googleRatingValue": "4.3 (8,009)",
     "address": "Adresa",
     "addressValue": "Sarandë, Shqipëri",
     "accessibility": "Aksesueshmëria",
@@ -109,7 +205,7 @@
   "hours": {
     "title": "Oraret e Vizitës",
     "park": "Aksesi në Kala",
-    "parkTime": "Hapur 24 orë çdo ditë",
+    "parkTime": "E hapur 08:00–23:00 çdo ditë",
     "bestTime": "Koha më e mirë për të vizituar",
     "bestTimeSpring": "Pranverë: Mot i këndshëm dhe pamje e qartë",
     "bestTimeSummer": "Verë: Atmosferë e gjallë dhe muzikë live në mbrëmje",
@@ -129,7 +225,7 @@
   "transport": {
     "title": "Si të Vini Këtu",
     "fromCenter": "Nga Qendra e Qytetit",
-    "fromCenterDesc": "Një udhëtim me taksi nga qendra e Sarandës zgjat rreth 10-15 minuta dhe kushton afërsisht 5-10 EUR (500-1000 LEK).",
+    "fromCenterDesc": "Një taksi nga qendra e Sarandës zgjat rreth 10 minuta dhe kushton rreth €10–15 (1200–1800 LEK). Bini dakord për tarifën me shoferin para nisjes.",
     "fromStation": "Nga Porti i Trageteve",
     "fromStationDesc": "Rreth 10-15 minuta udhëtim me taksi nga Terminali i Trageteve të Sarandës direkt në kala.",
     "fromAirport": "Nga Aeroporti i Tiranës/Korfuzit",
@@ -140,6 +236,118 @@
     "walkingDesc": "Një ngjitje 45-60 minuta përpjetë përmes një rruge të shtruar. Sillni shumë ujë gjatë verës!",
     "driving": "Me Makinë",
     "drivingDesc": "Rruga për lart është e shtruar dhe në gjendje të mirë. Parkim falas ofrohet pikërisht në majë."
+  },
+  "facilities": {
+    "title": "Objektet & Shërbimet",
+    "subtitle": "Çfarë gjeni dhe çfarë nuk gjeni në kala — nga tualetet dhe parkimi tek ushqimi, akomodimi, karburanti dhe blerjet.",
+    "note": "Si platformë informative e pavarur dhe jofitimprurëse, ne rendisim vetëm llojet e objekteve dhe nuk rekomandojmë kurrë biznese të veçanta.",
+    "items": [
+      {
+        "id": "wc",
+        "title": "Tualete Publike",
+        "description": "Nuk ka tualete publike brenda mureve të kalasë. Tualete gjenden te restoranti në vend dhe te kafenetë përgjatë rrugës së hyrjes për klientët. Tualetet publike më të afërta janë në qendër të Sarandës, rreth 10 minuta poshtë kodrës."
+      },
+      {
+        "id": "parking",
+        "title": "Parkimi",
+        "description": "Një zonë parkimi falas ndodhet në majë të kodrës, pak poshtë mureve të kalasë. Vendet janë të kufizuara dhe mbushen shpejt një orë para perëndimit të diellit — rekomandohet fuqimisht të arrini herët, sidomos qershori–shtatori."
+      },
+      {
+        "id": "dining",
+        "title": "Restorante",
+        "description": "Brenda mureve, një restorant sezonal në ajër të hapur shërben gatime tradicionale shqiptare dhe mesdhetare — mish të pjekur në skarë, ushqim deti të freskët dhe djathëra lokalë. Më shumë restorante dhe taverna gjenden përgjatë rrugës së kalasë dhe buzë detit të Sarandës."
+      },
+      {
+        "id": "cafes",
+        "title": "Kafene & Bare",
+        "description": "Në verë, kafenetë dhe baret në majë shërbejnë pije, kafe dhe freskuese me pamje panoramike. Jashtë sezonit, opsionet në majë janë të kufizuara ose të mbyllura, ndaj planifikoni paraprakisht."
+      },
+      {
+        "id": "accommodation",
+        "title": "Akomodimi",
+        "description": "Nuk ka akomodim në vetë kalanë. Hotele, shtëpi pritjeje dhe apartamente gjenden me shumicë në qendër të Sarandës dhe përgjatë bregdetit — rreth 10 minuta me makinë."
+      },
+      {
+        "id": "shopping",
+        "title": "Dyqane & Supermarkete",
+        "description": "Në majë të kodrës nuk ka dyqane. Supermarkete, furra buke, farmaci dhe dyqane suveniresh ndodhen në qendër të qytetit dhe përgjatë rrugës kryesore bregdetare."
+      },
+      {
+        "id": "fuel",
+        "title": "Karburant & Ngarkim EV",
+        "description": "Pompat e karburantit ndodhen në qendër të Sarandës dhe në rrugët kryesore hyrëse. Pikat publike të ngarkimit për makina elektrike janë ende të rralla në zonë; më të afërtat gjenden zakonisht pranë portit dhe përgjatë bulevardit kryesor."
+      },
+      {
+        "id": "atm",
+        "title": "Bankomat & Monedha",
+        "description": "Bankomat dhe këmbimi valutor janë të disponueshëm në qendër të Sarandës. Shumica e restoranteve pranojnë karta, por këshillohet të mbani pak cash (LEK ose EUR), pasi në majë nuk ka shërbime bankare."
+      }
+    ]
+  },
+  "history": {
+    "title": "Historia përgjatë shekujve",
+    "subtitle": "Nga një kështjellë osmane e shekullit të 16-të tek vendi më i dashur i Sarandës për perëndimin e diellit.",
+    "timeline": [
+      {
+        "era": "1537",
+        "title": "Themelet nën Sulejmanin e Madhërishëm",
+        "content": "Fortesa u ngrit në Kodrën e Lëkurësit në vitin 1537 me urdhër të sulltanit osman Sulejmani i Madhërishëm, gjatë fushatës së tij kundër ishullit të Korfuzit. Ajo ruante portin e Sarandës, kontrollonte rrugën bregdetare dhe mbronte rrugën e brendshme për në Butrint. Burimet e kohës përmendin një garnizon fillestar prej rreth 220 ushtarësh."
+      },
+      {
+        "era": "Shek. 16–18",
+        "title": "Një kështjellë e vogël osmane",
+        "content": "Për rreth dy shekuj, kalaja funksionoi si një kullë vrojtimi modeste dhe jo si një kështjellë e madhe. Plani katror me dy kulla të mëdha rrethore në qoshe të kundërta ndjek dizajnin klasik ushtarak të shekullit të 16-të, ndërsa muret — deri 7 metra të larta dhe 2 metra të trasha — u ndërtuan me gur gëlqeror lokal."
+      },
+      {
+        "era": "1878",
+        "title": "Humbja e rolit ushtarak dhe braktisja",
+        "content": "Pas Luftës Ruso-Turke dhe rivizatimit të kufijve në fund të shekullit të 19-të, vlera strategjike e kalasë u zhduk. Ajo u braktis gradualisht pas vitit 1878, duke mbetur rrënojë e mbuluar nga vegjetacioni në majë të kodrës."
+      },
+      {
+        "era": "Shek. 20",
+        "title": "Rizbulimi dhe restaurimi",
+        "content": "Në shekullin e 20-të, punimet e konsolidimit dhe restaurimit të pjesshëm ruajtën muret e mbijetuara. Vendi u shpall monument kulture i mbrojtur dhe u kthye në një pikë vrojtimi të qetë, e vlerësuar nga banorët vendas dhe udhëtarët."
+      },
+      {
+        "era": "Sot",
+        "title": "Pika panoramike simbol e Sarandës",
+        "content": "Sot Kalaja e Lëkurësit është ndër pikat më të vizituara panoramike të Shqipërisë së jugut. Një restorant sezonal funksionon brenda mureve dhe çdo mbrëmje tarraca mbushet me vizitorë që shikojnë diellin të zhytet mbi detin Jon dhe ishullin e Korfuzit."
+      }
+    ]
+  },
+  "legends": {
+    "title": "Tregime & Legjenda Lokale",
+    "note": "Tregimet e mëposhtme janë tradita popullore dhe legjenda gojore. Ato tregohen nga banorët vendas dhe udhëtarët, por nuk janë konfirmuar nga burimet historike.",
+    "items": [
+      {
+        "id": "name",
+        "kind": "folk",
+        "kindLabel": "Etimologji popullore",
+        "title": "Nga vjen emri “Lëkurës”?",
+        "content": "Një traditë lokale e përhapur e lidh emrin me fjalën shqipe “lëkurë”, duke sugjeruar se kodra dikur lidhej me zejen e lëkurës. Të tjerë e prejardhin nga një mbiemër familjar lokal ose nga një fjalë greke më e vjetër e zonës. Asnjë prej këtyre shpjegimeve nuk është konfirmuar — mbeten etimologji popullore."
+      },
+      {
+        "id": "sultan",
+        "kind": "folk",
+        "kindLabel": "Legjendë lokale",
+        "title": "Zgjedhja e kodrës nga sulltani",
+        "content": "Sipas një tregimi të njohur, sulltani Sulejmani i Madhërishëm vetë u ngjit në Kodrën e Lëkurësit për të zgjedhur vendin, dhe nga kulla e papërfunduar vëzhgoi zjarret e flotës së tij që përgatitej të sulmonte Korfuzin. Është një histori e gjallë që tregohet shpesh vizitorëve, megjithëse asnjë burim i kohës nuk e regjistron një vizitë të tillë."
+      },
+      {
+        "id": "guards",
+        "kind": "folk",
+        "kindLabel": "Përrallë popullore",
+        "title": "Rojet e heshtura të mureve",
+        "content": "Një përrallë e vjetër popullore thotë se në netët me hënë ende shihen hijet e rojeve osmane që lëvizin përgjatë mureve. Banorët e moshuar të Sarandës e pëlqejnë këtë histori, por askush nuk ka sjellë ndonjëherë një dëshmitar të dorës së parë."
+      },
+      {
+        "id": "treasure",
+        "kind": "folk",
+        "kindLabel": "Tregimi i thesarit",
+        "title": "Thesari i varrosur i kodrës",
+        "content": "Një tjetër tregim i përsëritur flet për një thesar të fshehur nga garnizoni përpara se kalaja të braktisej më 1878. Gjenerata kërkuesish thesari kanë gërmuar mes ullishteve — pa gjetur gjë tjetër veç gurësh dhe rrënjësh, duke e lënë legjendën të rritet."
+      }
+    ]
   },
   "route": {
     "title": "Rruga e Rekomanduar",
@@ -168,7 +376,10 @@
       "Oborri i kalasë",
       "Arkitektura historike",
       "Pamje e Liqenit të Butrintit",
-      "Atmosfera e mbrëmjes së verës"
+      "Atmosfera e mbrëmjes së verës",
+      "Pamje nga kodra e kalasë",
+      "Ora e artë mbi gjirin",
+      "Pamje e perëndimit nga kalaja"
     ],
     "viewAll": "Shiko në Google Maps",
     "showAll": "Shiko të Gjitha Fotot",
@@ -176,7 +387,7 @@
   },
   "reviews": {
     "title": "Vlerësimet e Vizitorëve",
-    "declaration": "Vlerësimet mund të shikohen përmes Google Maps.",
+    "declaration": "Vlerësimet janë marrë nga listimi i vendit në Google Maps dhe pasqyrojnë vetëm mendimet e autorëve.",
     "moreReviews": "Shiko më shumë vlerësime në Google Maps",
     "items": [
       {
@@ -238,7 +449,35 @@
       "iktk": "Instituti Kombëtar i Trashëgimisë Kulturore",
       "arkiva": "Drejtoria e Përgjithshme e Arkivave"
     },
-    "disclaimer": "Kjo faqe interneti është një projekt i pavarur i informacionit turistik i palës së tretë. Ne nuk jemi të lidhur me qeverinë lokale ose ndonjë agjenci tjetër zyrtare."
+    "disclaimer": "Kjo faqe interneti është një projekt i pavarur i informacionit turistik i palës së tretë. Ne nuk jemi të lidhur me qeverinë lokale ose ndonjë agjenci tjetër zyrtare.",
+    "imageRights": "Të gjitha imazhet e shfaqura në këtë faqe interneti janë pronë dhe e drejtë autori e fotografëve përkatës."
+  },
+  "sources": {
+    "title": "Burimet & Referencat",
+    "description": "Kur vizitoni Kalanë e Lëkurësit, mund të eksploroni lehtësisht monumentet përreth si Butrinti (trashëgimi botërore e UNESCO-s) dhe Ishujt e Ksamilit. Për përditësime zyrtare dhe informacion turistik rajonal, konsultohuni me burimet më poshtë.",
+    "officialPortalLabel": "Portali Zyrtar i Turizmit të Shqipërisë",
+    "items": [
+      {
+        "label": "Shqipëria — Portali Zyrtar i Turizmit",
+        "url": "https://albania.al/"
+      },
+      {
+        "label": "Agjencia Kombëtare e Turizmit e Shqipërisë (AKT)",
+        "url": "https://akt.gov.al/"
+      },
+      {
+        "label": "Bashkia e Sarandës",
+        "url": "https://bashkiasarande.gov.al/"
+      },
+      {
+        "label": "Instituti Kombëtar i Trashëgimisë Kulturore (IKTK)",
+        "url": "https://iktk.gov.al/"
+      },
+      {
+        "label": "Qendra e Trashëgimisë Botërore e UNESCO-s — Butrinti",
+        "url": "https://whc.unesco.org/en/list/570/"
+      }
+    ]
   },
   "officialManagement": {
     "title": "Rreth Kalasë së Lëkurësit",
@@ -246,7 +485,7 @@
   },
   "privacy": {
     "title": "Politika e Privatësisë",
-    "lastUpdated": "Përditësuar së fundmi: Maj 2026",
+    "lastUpdated": "Përditësuar së fundmi: 31 gusht 2026",
     "sections": [
       {
         "heading": "Mbledhja e Informacionit",
@@ -264,7 +503,7 @@
   },
   "terms": {
     "title": "Kushtet e Shërbimit",
-    "lastUpdated": "Përditësuar së fundmi: Maj 2026",
+    "lastUpdated": "Përditësuar së fundmi: 31 gusht 2026",
     "sections": [
       {
         "heading": "Përmbajtja dhe Përdorimi i Faqes në Internet",

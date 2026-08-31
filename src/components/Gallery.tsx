@@ -4,22 +4,22 @@ import { useTranslations, useMessages } from 'next-intl';
 import { useState, useCallback } from 'react';
 
 const photos = [
-  { src: '/gallery/lekuresi-castle (1).jpg', alt: 'Lëkurësi Castle Photo 1' },
-  { src: '/gallery/lekuresi-castle (2).jpg', alt: 'Lëkurësi Castle Photo 2' },
-  { src: '/gallery/lekuresi-castle (3).jpg', alt: 'Lëkurësi Castle Photo 3' },
-  { src: '/gallery/lekuresi-castle (4).jpg', alt: 'Lëkurësi Castle Photo 4' },
-  { src: '/gallery/lekuresi-castle (5).jpg', alt: 'Lëkurësi Castle Photo 5' },
-  { src: '/gallery/lekuresi-castle (6).jpg', alt: 'Lëkurësi Castle Photo 6' },
-  { src: '/gallery/lekuresi-castle (7).jpg', alt: 'Lëkurësi Castle Photo 7' },
-  { src: '/gallery/lekuresi-castle (8).jpg', alt: 'Lëkurësi Castle Photo 8' },
-  { src: '/gallery/lekuresi-castle (9).jpg', alt: 'Lëkurësi Castle Photo 9' },
-  { src: '/gallery/lekuresi-castle (10).jpg', alt: 'Lëkurësi Castle Photo 10' },
-  { src: '/gallery/lekuresi-castle (11).jpg', alt: 'Lëkurësi Castle Photo 11' },
-  { src: '/gallery/lekuresi-castle (12).jpg', alt: 'Lëkurësi Castle Photo 12' },
-  { src: '/gallery/lekuresi-castle (13).jpg', alt: 'Lëkurësi Castle Photo 13' },
-  { src: '/gallery/lekuresi-castle (15).jpg', alt: 'Lëkurësi Castle Photo 15' },
-  { src: '/gallery/lekuresi-castle (16).jpg', alt: 'Lëkurësi Castle Photo 16' },
-  { src: '/gallery/lekuresi-castle (17).jpg', alt: 'Lëkurësi Castle Photo 17' },
+  { src: '/gallery/lekuresi-castle-01.jpg', alt: 'Lëkurësi Castle Photo 1' },
+  { src: '/gallery/lekuresi-castle-02.jpg', alt: 'Lëkurësi Castle Photo 2' },
+  { src: '/gallery/lekuresi-castle-03.jpg', alt: 'Lëkurësi Castle Photo 3' },
+  { src: '/gallery/lekuresi-castle-04.jpg', alt: 'Lëkurësi Castle Photo 4' },
+  { src: '/gallery/lekuresi-castle-05.jpg', alt: 'Lëkurësi Castle Photo 5' },
+  { src: '/gallery/lekuresi-castle-06.jpg', alt: 'Lëkurësi Castle Photo 6' },
+  { src: '/gallery/lekuresi-castle-07.jpg', alt: 'Lëkurësi Castle Photo 7' },
+  { src: '/gallery/lekuresi-castle-08.jpg', alt: 'Lëkurësi Castle Photo 8' },
+  { src: '/gallery/lekuresi-castle-09.jpg', alt: 'Lëkurësi Castle Photo 9' },
+  { src: '/gallery/lekuresi-castle-10.jpg', alt: 'Lëkurësi Castle Photo 10' },
+  { src: '/gallery/lekuresi-castle-11.jpg', alt: 'Lëkurësi Castle Photo 11' },
+  { src: '/gallery/lekuresi-castle-12.jpg', alt: 'Lëkurësi Castle Photo 12' },
+  { src: '/gallery/lekuresi-castle-13.jpg', alt: 'Lëkurësi Castle Photo 13' },
+  { src: '/gallery/lekuresi-castle-14.jpg', alt: 'Lëkurësi Castle Photo 14' },
+  { src: '/gallery/lekuresi-castle-15.jpg', alt: 'Lëkurësi Castle Photo 15' },
+  { src: '/gallery/lekuresi-castle-16.jpg', alt: 'Lëkurësi Castle Photo 16' },
 ];
 
 export default function Gallery() {
